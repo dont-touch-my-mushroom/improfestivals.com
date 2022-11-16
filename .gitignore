@@ -1,4 +1,11 @@
-_site/
+result
+*~
+_site
+.sass-cache
+publish
+.bundle
+vendor
+process.yml
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
