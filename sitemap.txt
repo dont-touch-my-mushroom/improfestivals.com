@@ -11,6 +11,10 @@
 /workshops
 /feed.xml
 
+/a
+/c
+/b
 /baby_wants_candy
 /double_show
 /first_musical
+/c
