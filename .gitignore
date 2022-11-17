@@ -2,3 +2,10 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+result
+*~
+_site
+.sass-cache
+.bundle
+vendor
+process.yml
