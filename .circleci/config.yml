@@ -55,7 +55,7 @@ jobs:
             git commit -m "Built from circleci" || echo "Not committing."
             git push
             cd ..
-            git push origin master
+            git push origin main
 
 workflows:
   version: 2
