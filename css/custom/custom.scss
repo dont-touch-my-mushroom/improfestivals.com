@@ -73,7 +73,11 @@ a:hover {
   padding: 0;
 
   .navbar-brand {
-    padding: 0;
+    padding: 5px 0;
+
+    img {
+      max-width: 300px;
+    }
   }
 }
 
@@ -84,6 +88,7 @@ a:hover {
 
   .nav-link {
     color: white;
+    font-size: 16px;
 
     &:hover {
       color: black;
@@ -186,4 +191,12 @@ margin-bottom: 20px;
 
 .hero-content-v2 a {
   margin-bottom: 20px;
+}
+
+.festivals {
+  img {
+    width: unset;
+    max-width: 100%;
+    max-height: 400px;
+  }
 }

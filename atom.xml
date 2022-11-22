@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-11-22T19:12:08+00:00</updated>
+ <updated>2022-11-22T19:53:54+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -14,99 +14,11 @@
  
 
  <entry>
-   <title>A</title>
-   <link href="http://localhost:4000/a"/>
-   <id>http://localhost:4000/a</id>
-   <updated>2023-03-09T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;a&lt;/p&gt;
-
-</content>
- </entry>
-
- 
-
- <entry>
-   <title>C</title>
-   <link href="http://localhost:4000/c"/>
-   <id>http://localhost:4000/c</id>
-   <updated>2023-03-02T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;c&lt;/p&gt;
-
-</content>
- </entry>
-
- 
-
- <entry>
-   <title>B</title>
-   <link href="http://localhost:4000/b"/>
-   <id>http://localhost:4000/b</id>
-   <updated>2023-02-01T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;asdfsdf&lt;/p&gt;
-
-</content>
- </entry>
-
- 
-
- <entry>
    <title>Spunk_22</title>
    <link href="http://localhost:4000/SPUNK_22"/>
    <id>http://localhost:4000/SPUNK_22</id>
    <updated>2022-10-10T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;theater anundpfirsich invites you to the 10th and last edition of SPUNK, the Zurich Improtheater Festival.&lt;/p&gt; &lt;p&gt;From October 10 to 16, 2022, the festival ensemble shows with top-class guests from the USA, Great Britain, Poland, Germany, the Netherlands, Austria, Slovenia and Switzerland what improvised theater has to offer. The audience...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Spunk</title>
-   <link href="http://localhost:4000/SPUNK"/>
-   <id>http://localhost:4000/SPUNK</id>
-   <updated>2022-10-10T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;theater anundpfirsich invites you to the 10th and last edition of SPUNK, the Zurich Improtheater Festival.&lt;/p&gt; &lt;p&gt;From October 10 to 16, 2022, the festival ensemble shows with top-class guests from the USA, Great Britain, Poland, Germany, the Netherlands, Austria, Slovenia and Switzerland what improvised theater has to offer. The audience...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Musical Improv Weekend</title>
-   <link href="http://localhost:4000/baby_wants_candy"/>
-   <id>http://localhost:4000/baby_wants_candy</id>
-   <updated>2022-09-03T10:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Baby Wants Candy (BWC) is thrilled to lead a two day music improv intensive in Switzerland. No musical improv experience needed.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Based on BWC’s signature form- a one hour, completely improvised musical with a full band, participants will learn how to:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Create musical narratives while still maintaining the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Double feature</title>
-   <link href="http://localhost:4000/double_show"/>
-   <id>http://localhost:4000/double_show</id>
-   <updated>2022-06-23T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;In this very special double feature, we present two unique improv shows in one fantastic night. &lt;!--more--&gt; First, Don’t Touch My Mushroom Improv will play their new improvised format “The Gathering” for the first time ever. It’s a show about a dramatic, life changing event, gathering friends and enemies, envious...</content>
- </entry>
-
- 
-
- <entry>
-   <title>The Show</title>
-   <link href="http://localhost:4000/first_musical"/>
-   <id>http://localhost:4000/first_musical</id>
-   <updated>2022-05-13T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;A whole musical being improvised in front of your eyes!&lt;/p&gt; &lt;!--more--&gt; &lt;p&gt;Have you ever heard of Hamilton? What about Cats? Maybe Grease? Well, this is nothing like that. We are going to develop a whole story from your suggestions. It will be full of emotions and epic songs.&lt;/p&gt; &lt;p&gt;We are...</content>
- </entry>
-
- 
-
- <entry>
-   <title>C</title>
-   <link href="http://localhost:4000/c"/>
-   <id>http://localhost:4000/c</id>
-   <updated>2002-02-02T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;asdf&lt;/p&gt;
-
-</content>
  </entry>
 
  

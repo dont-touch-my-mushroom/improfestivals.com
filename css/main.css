@@ -2,13 +2,6 @@
  * Emerald is a simple blog theme built for Jekyll.
  */
 /*- Base reset -*/
-/*- Typography -*/
-/* -- General Layout -- */
-/* Navigation */
-/*
- * A Github stylesheet to highlight code snippet
- * https://github.com/mojombo/tpw/blob/master/css/syntax.css
- */
 /*- Custom style -*/
 h2 {
   padding-top: 15px; }
@@ -22,33 +15,36 @@ h3 {
 footer.default-footer {
   padding: 60px 0; }
   footer.default-footer a {
-    color: #f0176fff; }
+    color: #01a7f5; }
 
 a:hover {
   text-decoration: underline; }
 
 .bg-default {
-  background: #f0176fff; }
+  background: #01a7f5; }
 
 .service-box .service-icon i {
-  color: #f0176fff; }
+  color: #01a7f5; }
 
 .btn-default-filled {
-  background: #f0176fff;
-  border-color: #f0176fff; }
+  background: #01a7f5;
+  border-color: #01a7f5; }
   .btn-default-filled:hover {
-    background: #a2124c;
-    border: 1px solid #a2124c; }
+    background: #f9f000;
+    border: 1px solid #f9f000; }
 
 .navbar {
   padding: 0; }
   .navbar .navbar-brand {
-    padding: 0; }
+    padding: 5px 0; }
+    .navbar .navbar-brand img {
+      max-width: 300px; }
 
 .navbar-light .navbar-nav .active a:hover {
   color: black; }
 .navbar-light .navbar-nav .nav-link {
-  color: white; }
+  color: white;
+  font-size: 16px; }
   .navbar-light .navbar-nav .nav-link:hover {
     color: black; }
 
@@ -74,7 +70,7 @@ a:hover {
   width: 16px; }
 .contact-info a {
   font-size: 16px;
-  color: #f0176fff;
+  color: #01a7f5;
   display: inline; }
 
 .map {
@@ -118,3 +114,8 @@ a:hover {
 
 .hero-content-v2 a {
   margin-bottom: 20px; }
+
+.festivals img {
+  width: unset;
+  max-width: 100%;
+  max-height: 400px; }
