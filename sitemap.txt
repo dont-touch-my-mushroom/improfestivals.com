@@ -10,10 +10,12 @@
 /sitemap.txt
 /workshops
 /feed.xml
+/page2/
 
 /a
 /c
 /b
+/SPUNK_22
 /SPUNK
 /baby_wants_candy
 /double_show

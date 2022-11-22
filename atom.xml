@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-11-22T00:02:18+00:00</updated>
+ <updated>2022-11-22T19:05:29+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -45,6 +45,16 @@
    <content type="html">&lt;p&gt;asdfsdf&lt;/p&gt;
 
 </content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Spunk_22</title>
+   <link href="http://localhost:4000/SPUNK_22"/>
+   <id>http://localhost:4000/SPUNK_22</id>
+   <updated>2022-10-10T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;theater anundpfirsich invites you to the 10th and last edition of SPUNK, the Zurich Improtheater Festival.&lt;/p&gt; &lt;p&gt;From October 10 to 16, 2022, the festival ensemble shows with top-class guests from the USA, Great Britain, Poland, Germany, the Netherlands, Austria, Slovenia and Switzerland what improvised theater has to offer. The audience...</content>
  </entry>
 
  
