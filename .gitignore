@@ -9,3 +9,4 @@ process.yml
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.images_tmp

@@ -27,20 +27,11 @@ canonical: https://improfestivals.com
                   <div class="carousel-item active">
                     <img src="{{ BASE_PATH }}/assets/images/slider/bg-3.jpg" alt="">
                     <div class="carousel-caption">
-                      <h3 class="slide-title animated fadeInDown">Musical Improv in Zurich</h3>
-                      <h5 class="slide-text animated fadeIn">Check out our shows in English.</h5>
-                      <a href="/shows" class="btn btn-lg btn-default-filled animated fadeInUp">Shows</a>
+                      <h3 class="slide-title animated fadeInDown">Impro Festivals all around the world</h3>
+                      <h5 class="slide-text animated fadeIn">Check the upcoming dates.</h5>
+                      <a href="/festivals" class="btn btn-lg btn-default-filled animated fadeInUp">Festivals</a>
                     </div>
                   </div>
-                  <div class="carousel-item">
-                    <img src="{{ BASE_PATH }}/assets/images/slider/bg-4.jpg" alt="">
-                    <div class="carousel-caption">
-                      <h3 class="slide-title animated fadeInDown">Improv Workshops</h3>
-                      <h5 class="slide-text animated fadeIn">by teachers from all over the world.</h5>
-                      <a href="/workshops" class="btn btn-lg btn-default-filled animated fadeInUp">Workshops</a>
-                    </div>
-                  </div>
-
               </div>
             </div>
           </div>
@@ -109,20 +100,17 @@ canonical: https://improfestivals.com
 	<div id="features" class="container">
 	<!-- SERVICES -->
             <div class="sub-title">
-              <span>Basic Pitches are</span>
+              <span>Find Festivals...</span>
             </div>
             <div class="row">
               <!-- Start Service Icon 1 -->
               <div class="col-md-4 col-sm-6">
                 <div class="service-box">
                   <div class="service-icon">
-                    <i class="fa fa-users"></i>
+                    <i class="fa fa-globe"></i>
                   </div>
                   <div class="service-content">
-                    <h4>A Musical Improv troupe</h4>
-                    <p>
-                      We are an amateur improv troupe who love musical improv!
-                    </p>
+                    <h4><a >by Country</a></h4> 
                   </div>
                 </div>
               </div>
@@ -132,13 +120,10 @@ canonical: https://improfestivals.com
               <div class="col-md-4 col-sm-6">
                 <div class="service-box">
                   <div class="service-icon">
-                    <i class="fa fa-globe"></i>
+                    <i class="fa fa-users"></i>
                   </div>
                   <div class="service-content">
-                    <h4>International</h4>
-                    <p>
-                      Our members come from all over the world and all have their own special accent.
-                    </p>
+                    <h4><a >by Language</a></h4> 
                   </div>
                 </div>
               </div>
@@ -151,69 +136,18 @@ canonical: https://improfestivals.com
                     <i class="fa fa-star"></i>
                   </div>
                   <div class="service-content">
-                    <h4>On stage!</h4>
-                    <p>
-                      We have shows as regularly as we can.
-                    </p>
+                    <h4><a >by Month</a></h4>
                   </div>
                 </div>
               </div>
               <!-- End Service Icon 3 -->
-
-              <!-- Start Service Icon 4 -->
-              <div class="col-md-4 col-sm-6">
-                <div class="service-box">
-                  <div class="service-icon">
-                    <i class="fa fa-map-marker"></i>
-                  </div>
-                  <div class="service-content">
-                    <h4>Zurich based</h4>
-                    <p>
-                      We rehearse and perform in Zurich (Switzerland).
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- End Service Icon 4 -->
-
-              <!-- Start Service Icon 5 -->
-              <div class="col-md-4 col-sm-6">
-                <div class="service-box">
-                  <div class="service-icon">
-                    <i class="fa fa-smile-o"></i>
-                  </div>
-                  <div class="service-content">
-                    <h4>Fun</h4>
-                    <p>
-                      We love doing improv and sharing it with our audience.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- End Service Icon 5 -->
-
-              <!-- Start Service Icon 6 -->
-              <div class="col-md-4 col-sm-6">
-                <div class="service-box">
-                  <div class="service-icon">
-                    <i class="fa fa-music"></i>
-                  </div>
-                  <div class="service-content">
-                    <h4>Singing</h4>
-                    <p>
-                      We perform totally improvised songs on stage.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- End Service Icon 6 -->
             </div>
 	    </div>
             <div class="mb-60"></div>
 
 
       <div class="container">
-        <h4 class="sub-title space-left">Our events</h4>
+        <h4 class="sub-title space-left">Past festivals</h4>
       </div>
 
       <!-- posts carousel -->
@@ -222,21 +156,17 @@ canonical: https://improfestivals.com
           <div id="posts-carousel" class="owl-carousel">
            {% for post in site.posts %}
             <div class="blog-block blog block carousel-post">
-             {% if post.img %}
-              <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt=""></a>
+             {% if post.image %}
+              <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" alt=""></a>
              {% endif %}
-              <h5>{{ post.title }}</h5>
-              <p>{{ post.excerpt }}</p>
+              <h5>{{ post.name }}</h5>
+              <p>{{ post.slogan }}</p>
               <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
            {% endfor %}
           </div>
         </div>
       </section>
-
-
-
-
 
 <!-- Content area end -->
 </div>
