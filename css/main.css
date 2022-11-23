@@ -33,6 +33,15 @@ a:hover {
     background: #f9f000;
     border: 1px solid #f9f000; }
 
+.readmore {
+  background: #01a7f5;
+  border-color: #01a7f5;
+  color: white; }
+  .readmore:hover {
+    background: #f9f000;
+    border: 1px solid #f9f000;
+    color: black; }
+
 .navbar {
   padding: 0; }
   .navbar .navbar-brand {
@@ -115,7 +124,16 @@ a:hover {
 .hero-content-v2 a {
   margin-bottom: 20px; }
 
-.festivals img {
-  width: unset;
-  max-width: 100%;
-  max-height: 400px; }
+.festivals {
+  display: flex;
+  flex-direction: column; }
+  .festivals > a {
+    display: flex;
+    justify-content: center; }
+    .festivals > a img {
+      width: unset;
+      max-width: 100%;
+      max-height: 400px; }
+
+.upcoming .col-md-4 {
+  margin: 20px 0; }
