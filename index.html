@@ -10,151 +10,95 @@ canonical: https://improfestivals.com
 {% include JB/setup %}
 <!-- Content Area Start -->
 <div id="content">
-      <!-- sliders -->
-      <div id="sliders">
-        <div class="full-width">
-          <!-- light slider -->
-          <div id="light-slider" class="carousel slide">
-            <div id="carousel-area">
-              <div id="carousel-slider" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                  <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-                  <li data-target="#carousel-slider" data-slide-to="1"></li>
-                  <li data-target="#carousel-slider" data-slide-to="2"></li>
-                  <li data-target="#carousel-slider" data-slide-to="3"></li>
-                </ol>
-                <div class="carousel-inner" role="listbox">
-                  <div class="carousel-item active">
-                    <img src="{{ BASE_PATH }}/assets/images/slider/bg-3.jpg" alt="">
-                    <div class="carousel-caption">
-                      <h3 class="slide-title animated fadeInDown">Impro Festivals all around the world</h3>
-                      <h5 class="slide-text animated fadeIn">Check the upcoming dates.</h5>
-                      <a href="/festivals" class="btn btn-lg btn-default-filled animated fadeInUp">Festivals</a>
-                    </div>
-                  </div>
+  <!-- sliders -->
+  <div id="sliders">
+    <div class="full-width">
+      <!-- light slider -->
+      <div id="light-slider" class="carousel slide">
+        <div id="carousel-area">
+          <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-slider" data-slide-to="1"></li>
+              <li data-target="#carousel-slider" data-slide-to="2"></li>
+              <li data-target="#carousel-slider" data-slide-to="3"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+              <div class="carousel-item active">
+                <img src="{{ BASE_PATH }}/assets/images/slider/bg-3.jpg" alt="">
+                <div class="carousel-caption">
+                  <h3 class="slide-title animated fadeInDown">Impro Festivals all around the world</h3>
+                  <h5 class="slide-text animated fadeIn">Check the upcoming dates.</h5>
+                  <a href="/festivals" class="btn btn-lg btn-default-filled animated fadeInUp">Festivals</a>
+                </div>
               </div>
-            </div>
           </div>
         </div>
       </div>
-      <!-- End sliders -->
+    </div>
+  </div>
+  <!-- End sliders -->
 
-<!-- Next show -->
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+  {% assign nowunix = nowunix | plus: 0 %}
 
-{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-{% assign nowunix = nowunix | plus: 0 %}
-{% assign shown = false %}
+  <div class="mb-60"></div>
 
-<!-- The reversed keyword is important so that it shows the next most recent show. -->
-{% for post in site.posts reversed %} 
-  {% if shown != true %}
-  	{% if post.categories contains 'show' or 'workshop' %}
-    {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
-    {% assign posttime = posttime | plus: 0 %}
-    {% if nowunix < posttime %}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="container">
+          <h4 class="sub-title space-left">Upcoming festivals</h4>
+        </div>
 
-    <div class="header-style-2">
-      <div class="container">
-        <div class="row">
+        <div class="row upcoming">
+          {% for post in site.posts %}
+          {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+          {% assign posttime = posttime | plus: 0 %}
+          {% if nowunix < posttime %}
 
-                  <div class="col-md-4 col-sm-12">
-
-          <div class="hero-content-v2">
-            <h3>Check out our <strong> Next
-                  {% if post.categories contains "show" %} show
-                  {% elsif post.categories contains "workshop" %} workshop
-                  {% else %} event
-                  {% endif %}
-            </strong></h3>
-            <p> {{post.date | date_to_string }}</p>
-            <a href="{{ BASE_PATH }}{{ post.url }}" class="page-scroll btn btn-lg btn-default-filled">Learn More</a>
+          <!-- Start Image Service Box 1 -->
+          <div class="col-md-4">
+            <div class="card-2">
+              <div class="image">
+                <a href="{{ BASE_PATH }}{{ post.url }}"> <img src="{{ post.image }}"> </a>
+              </div>
+              <div class="card-block">
+                <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
+                <div class="meta">
+                  <a href="{{ BASE_PATH }}{{ post.url }}">{% include JB/period.liquid start=post.start_date end=post.end_date %}</a>
+                </div>
+                <div class="description">
+                  {{ post.slogan }}
+                </div>
+              </div>
+            </div>
           </div>
+          <!-- End Image Service Box 1 -->
 
-         </div>
-
-     <div class="col-md-8 col-sm-12">
-  			 <a href="{{ BASE_PATH }}{{ post.url }}">
-  				 <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
-  			 </a>
-
-       </div>
+          {% endif %}
+          {% endfor %}
+        </div>
       </div>
-        <div class="row">
-          <div class="mb-60"></div>
-            </div>
-            </div>
-                  </div>
+    </div>
+  </div>
+      
 
-      {% assign shown = true %}
-    	{% endif %}
-  	{% endif %}
-	{% endif %}
-{% endfor %}
-
-<!-- End Next show -->
-
-
-
-
-      <div class="mb-60"></div>
-	<div id="features" class="container">
-	<!-- SERVICES -->
-            <div class="sub-title">
-              <span>Find Festivals...</span>
-            </div>
-            <div class="row">
-              <!-- Start Service Icon 1 -->
-              <div class="col-md-4 col-sm-6">
-                <div class="service-box">
-                  <div class="service-icon">
-                    <i class="fa fa-globe"></i>
-                  </div>
-                  <div class="service-content">
-                    <h4><a >by Country</a></h4> 
-                  </div>
-                </div>
-              </div>
-              <!-- End Service Icon 1 -->
-
-              <!-- Start Service Icon 2 -->
-              <div class="col-md-4 col-sm-6">
-                <div class="service-box">
-                  <div class="service-icon">
-                    <i class="fa fa-users"></i>
-                  </div>
-                  <div class="service-content">
-                    <h4><a >by Language</a></h4> 
-                  </div>
-                </div>
-              </div>
-              <!-- End Service Icon 2 -->
-
-              <!-- Start Service Icon 3 -->
-              <div class="col-md-4 col-sm-6">
-                <div class="service-box">
-                  <div class="service-icon">
-                    <i class="fa fa-star"></i>
-                  </div>
-                  <div class="service-content">
-                    <h4><a >by Month</a></h4>
-                  </div>
-                </div>
-              </div>
-              <!-- End Service Icon 3 -->
-            </div>
-	    </div>
-            <div class="mb-60"></div>
-
+<div class="mb-60"></div>
 
       <div class="container">
         <h4 class="sub-title space-left">Past festivals</h4>
       </div>
-
       <!-- posts carousel -->
       <section id="blog">
         <div class="container">
           <div id="posts-carousel" class="owl-carousel">
            {% for post in site.posts %}
+
+    {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+    {% assign posttime = posttime | plus: 0 %}
+    {% if nowunix > posttime %}
+
             <div class="blog-block blog block carousel-post">
              {% if post.image %}
               <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" alt=""></a>
@@ -163,6 +107,7 @@ canonical: https://improfestivals.com
               <p>{{ post.slogan }}</p>
               <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
+            {% endif %}
            {% endfor %}
           </div>
         </div>
