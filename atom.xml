@@ -4,12 +4,22 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-11-23T19:14:05+00:00</updated>
+ <updated>2022-11-23T19:22:33+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Edinburgh_international_improv_festival_23</title>
+   <link href="http://localhost:4000/Edinburgh_International_Improv_Festival_23"/>
+   <id>http://localhost:4000/Edinburgh_International_Improv_Festival_23</id>
+   <updated>2023-03-02T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The Edinburgh International Improv Festival is held at the Scottish Storytelling Centre in Scotland’s beautiful capital city. It’s three days of workshops, shows and jams celebrating the best in improv from around the world.&lt;/p&gt; &lt;p&gt;For this year’s festival we teamed up with World’s Greatest Improv School and had four of...</content>
+ </entry>
 
  
 

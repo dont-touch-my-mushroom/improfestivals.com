@@ -10,6 +10,7 @@
 /sitemap.txt
 /feed.xml
 
+/Edinburgh_International_Improv_Festival_23
 /Impro_Amsterdam_2023_23
 /Moth_&_Butterfly_Int'l_Festival_of_Storytelling_&_Improvisation_23
 /SPUNK_22
