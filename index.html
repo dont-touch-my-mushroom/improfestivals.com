@@ -58,19 +58,21 @@ canonical: https://improfestivals.com
           {% if nowunix < posttime %}
 
           <!-- Start Image Service Box 1 -->
-          <div class="col-md-4">
-            <div class="card-2">
-              <div class="image">
+          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 blog-item">
+            <div class="blog-item-wrapper">
+              <div class="blog-item-img">
                 <a href="{{ BASE_PATH }}{{ post.url }}"> <img src="{{ post.image }}"> </a>
               </div>
-              <div class="card-block">
+              <div class="blog-item-text">
                 <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
-                <div class="meta">
-                  <a href="{{ BASE_PATH }}{{ post.url }}">{% include JB/period.liquid start=post.start_date end=post.end_date %}</a>
+                <div class="meta-tags">
+                  on {% include JB/period.liquid start=post.start_date end=post.end_date %}
                 </div>
-                <div class="description">
+                <p>
                   {{ post.slogan }}
-                </div>
+                </p>
+
+              <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common btn-rm readmore">Read More</a>
               </div>
             </div>
           </div>
@@ -105,7 +107,7 @@ canonical: https://improfestivals.com
              {% endif %}
               <h5>{{ post.name }}</h5>
               <p>{{ post.slogan }}</p>
-              <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+              <a href="{{ BASE_PATH }}{{ post.url }}">Read more <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
             {% endif %}
            {% endfor %}

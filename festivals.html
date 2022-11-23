@@ -11,7 +11,12 @@ canonical: https://improfestivals.com/festivals
 ---
 {% include JB/setup %}
 
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowunix = nowunix | plus: 0 %}
 {% for post in site.posts %}
+{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+{% assign posttime = posttime | plus: 0 %}
+{% if nowunix < posttime %}
   <div class="blog-block post-content-area festivals">
     {% if post.image %}
       <a href="{{ BASE_PATH }}{{ post.url }}">
@@ -22,8 +27,35 @@ canonical: https://improfestivals.com/festivals
             <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
             <i class="fa fa-calendar icons cyan-color contact-info-icon"></i> {% include JB/period.liquid start=post.start_date end=post.end_date %}
       <p>{{ post.slogan }}</p>
-            <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
+            <a class="btn btn-common readmore" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
           </div>
         </div>
   <div class="mb-60"></div>
+  {% endif %}
+{% endfor %}
+
+
+
+<h4 class="sub-title space-left">Past festivals</h4>
+
+
+{% for post in site.posts %}
+{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+{% assign posttime = posttime | plus: 0 %}
+{% if nowunix > posttime %}
+  <div class="blog-block post-content-area festivals">
+    {% if post.image %}
+      <a href="{{ BASE_PATH }}{{ post.url }}">
+        <img src="{{ post.image }}" alt="{{ post.name }} image">
+      </a>
+    {% endif %}
+          <div class="blog-post">
+            <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
+            <i class="fa fa-calendar icons cyan-color contact-info-icon"></i> {% include JB/period.liquid start=post.start_date end=post.end_date %}
+      <p>{{ post.slogan }}</p>
+            <a class="btn btn-common readmore" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
+          </div>
+        </div>
+  <div class="mb-60"></div>
+  {% endif %}
 {% endfor %}
