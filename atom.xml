@@ -4,12 +4,22 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-11-23T00:02:35+00:00</updated>
+ <updated>2022-11-23T17:17:38+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Impro_amsterdam_2023_23</title>
+   <link href="http://localhost:4000/Impro_Amsterdam_2023_23"/>
+   <id>http://localhost:4000/Impro_Amsterdam_2023_23</id>
+   <updated>2023-02-25T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;From the 25th of February to the 4th of March, IMPRO Amsterdam 2023 will rock Amsterdam Noord with eight days of high-quality international Improvisational Theatre. We have 29 shows from all over the world and 34 workshops that will teach you new skills or sharpen old ones.&lt;/p&gt; &lt;p&gt;Join us for...</content>
+ </entry>
 
  
 

@@ -10,4 +10,5 @@
 /sitemap.txt
 /feed.xml
 
+/Impro_Amsterdam_2023_23
 /SPUNK_22
