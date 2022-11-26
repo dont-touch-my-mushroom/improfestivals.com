@@ -52,7 +52,7 @@ canonical: https://improfestivals.com
         </div>
 
         <div class="row upcoming">
-          {% for post in site.posts %}
+          {% for post in site.posts reversed %}
           {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
           {% assign posttime = posttime | plus: 0 %}
           {% if nowunix < posttime %}
