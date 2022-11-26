@@ -6,4 +6,4 @@ Disallow: /_config.yml
 Disallow: /_layouts/
 Disallow: /_plugins/
 
-Sitemap: https://improfestivals.com/sitemap.txt
+Sitemap: https://improfestivals.com/sitemap.xml

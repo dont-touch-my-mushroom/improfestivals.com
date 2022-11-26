@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-11-26T12:47:28+00:00</updated>
+ <updated>2022-11-26T12:57:04+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -29,19 +29,6 @@
    <id>http://localhost:4000/Impro_Amsterdam_2023_23</id>
    <updated>2023-02-25T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;From the 25th of February to the 4th of March, IMPRO Amsterdam 2023 will rock Amsterdam Noord with eight days of high-quality international Improvisational Theatre. We have 29 shows from all over the world and 34 workshops that will teach you new skills or sharpen old ones.&lt;/p&gt; &lt;p&gt;Join us for...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Moth_&_butterfly_int'l_festival_of_storytelling_&_improvisation_23</title>
-   <link href="http://localhost:4000/Moth_&_Butterfly_Int'l_Festival_of_Storytelling_&_Improvisation_23"/>
-   <id>http://localhost:4000/Moth_&_Butterfly_Int'l_Festival_of_Storytelling_&_Improvisation_23</id>
-   <updated>2023-02-03T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Kindly funded by The Arts Council of Ireland and Galway City Council.
-Please stay tuned and sign up to our mailing list (via the link at the bottom of the page) for updates about our 2023 Festival as well as all of our regular events and future projects.&lt;/p&gt;
-
-</content>
  </entry>
 
  
