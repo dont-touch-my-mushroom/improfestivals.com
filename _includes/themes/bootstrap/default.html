@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ page.title }}</title>
-    {% if page.tagline %}<meta name="description" content="{{ page.tagline }}">{% endif %}
+    
     <meta name="author" content="{{ site.author.name }}">
     {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
     {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
@@ -35,8 +35,17 @@
 <link rel="shortcut icon" type="image/png" href="{{ BASE_PATH }}/assets/favicon.png">
 
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="All info about {{ page.name }} impro festival in {{ page.city }}, {{ page.country }}.">
-    <meta property="og:image" content="{{ page.image }}">
+    {%if page.country %}
+      <meta property="og:description" content="All info about {{ page.name }} impro festival in {{ page.city }}, {{ page.country }}.">
+      {% else %}
+      <meta property="og:description" content="Find Impro Festivals all over the world.">
+    {% endif %}
+
+    {%if page.image %}
+      <meta property="og:image" content="{{ page.image }}">
+    {% else %}
+      <meta property="og:image" content="http://improfestivals.com/assets/images/logo_name_white.png">
+    {% endif %}
     <meta property="og:url" content="{{ BASE_PATH }}">
 
 	<!--[if IE]>
