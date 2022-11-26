@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-11-26T12:20:54+00:00</updated>
+ <updated>2022-11-26T12:47:28+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -14,7 +14,7 @@
  
 
  <entry>
-   <title>Edinburgh_international_improv_festival_23</title>
+   <title>Edinburgh International Improv Festival</title>
    <link href="http://localhost:4000/Edinburgh_International_Improv_Festival_23"/>
    <id>http://localhost:4000/Edinburgh_International_Improv_Festival_23</id>
    <updated>2023-03-02T00:00:00+00:00</updated>
@@ -24,7 +24,7 @@
  
 
  <entry>
-   <title>Impro_amsterdam_2023_23</title>
+   <title>Impro Amsterdam 2023</title>
    <link href="http://localhost:4000/Impro_Amsterdam_2023_23"/>
    <id>http://localhost:4000/Impro_Amsterdam_2023_23</id>
    <updated>2023-02-25T00:00:00+00:00</updated>
@@ -47,7 +47,20 @@ Please stay tuned and sign up to our mailing list (via the link at the bottom of
  
 
  <entry>
-   <title>Spunk_22</title>
+   <title>Moth & Butterfly Int'l Festival of Storytelling & Improvisation </title>
+   <link href="http://localhost:4000/Moth_&_Butterfly_Int-27l_Festival_of_Storytelling_&_Improvisation_23"/>
+   <id>http://localhost:4000/Moth_&_Butterfly_Int%27l_Festival_of_Storytelling_&_Improvisation_23</id>
+   <updated>2023-02-03T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Kindly funded by The Arts Council of Ireland and Galway City Council.
+Please stay tuned and sign up to our mailing list (via the link at the bottom of the page) for updates about our 2023 Festival as well as all of our regular events and future projects.&lt;/p&gt;
+
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>SPUNK</title>
    <link href="http://localhost:4000/SPUNK_22"/>
    <id>http://localhost:4000/SPUNK_22</id>
    <updated>2022-10-10T00:00:00+00:00</updated>
