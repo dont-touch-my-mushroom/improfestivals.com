@@ -1,6 +1,7 @@
 ---
 layout: event
 name: "Edinburgh International Improv Festival"
+title: "Edinburgh International Improv Festival"
 country: "Scotland"
 city: "Edinburgh"
 start_date: "2023-03-02T00:00:00Z"
