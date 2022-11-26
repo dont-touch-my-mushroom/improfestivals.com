@@ -60,6 +60,8 @@ exclude:
   - "*.nix"
   - vendor
 
+production_url: "https://improfestivals.com"
+
 # Copied from Helium https://github.com/heliumjk/heliumjk.github.io
 highlighter: null
 excerpt_separator: "<!--more-->"
