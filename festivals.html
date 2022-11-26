@@ -13,7 +13,7 @@ canonical: https://improfestivals.com/festivals
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowunix = nowunix | plus: 0 %}
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
 {% assign posttime = posttime | plus: 0 %}
 {% if nowunix < posttime %}
