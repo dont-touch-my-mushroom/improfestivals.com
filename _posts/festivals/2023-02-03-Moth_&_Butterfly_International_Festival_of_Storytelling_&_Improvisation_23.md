@@ -8,13 +8,13 @@ start_date: "2023-02-03T00:00:00Z"
 end_date: "2023-02-05T00:00:00Z"
 website: "www.mothandbutterflystories.com"
 image: "https://drive.google.com/uc?export=view&id=15Z8-w0mFpFd1F07qvI5PNW6nQEggVIM3"
-slogan: "“Full of heart - one of Ireland’s warmest events""
+slogan: "Full of heart - one of Ireland’s warmest events"
 languages: [English,Irish]
 accommodation: false
 mixers: true
 organizer: 
 facebook: "facebook.com/mothandbutterflystories"
-instagram: "@mothandbutterflystories"
+instagram: "https://www.instagram.com/mothandbutterflystories"
 twitter: ""
 ---
 
