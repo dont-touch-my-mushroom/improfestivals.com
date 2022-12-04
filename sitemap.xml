@@ -7,7 +7,22 @@
 </url>
 
     <url>
+      <loc>https://improfestivals.com/Sofia_International_Improv_Fest_23</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
+      <loc>https://improfestivals.com/Samothrace_Improv_Retreat_23</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Mount_Olymprov_23</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
+      <loc>https://improfestivals.com/Auckland_Improv_Festival_23</loc>
       <priority>0.5</priority>
     </url>
 
@@ -18,6 +33,11 @@
 
     <url>
       <loc>https://improfestivals.com/Impro_Amsterdam_2023_23</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
+      <loc>https://improfestivals.com/2023-02-03-Moth_&amp;_Butterfly_International_Festival_of_Storytelling_&amp;_Improvisation_23</loc>
       <priority>0.5</priority>
     </url>
 
