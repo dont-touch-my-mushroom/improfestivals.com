@@ -25,7 +25,7 @@ canonical: https://improfestivals.com
             </ol>
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
-                <img src="{{ BASE_PATH }}/assets/images/slider/bg-3.jpg" alt="">
+                <img src="{{ BASE_PATH }}/assets/images/slider/bg-3.jpg" alt="festival_audience" title="Impro Festivals all around the world">
                 <div class="carousel-caption">
                   <h3 class="slide-title animated fadeInDown">Impro Festivals all around the world</h3>
                   <h5 class="slide-text animated fadeIn">Check the upcoming dates.</h5>
@@ -61,7 +61,7 @@ canonical: https://improfestivals.com
           <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 blog-item">
             <div class="blog-item-wrapper">
               <div class="blog-item-img">
-                <a href="{{ BASE_PATH }}{{ post.url }}"> <img src="{{ post.image }}"> </a>
+                <a href="{{ BASE_PATH }}{{ post.url }}"> <img src="{{ post.image }}" alt="{{post.name}}" title="{{post.name}} improv festival"> </a>
               </div>
               <div class="blog-item-text">
                 <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
@@ -72,7 +72,7 @@ canonical: https://improfestivals.com
                   {{ post.slogan }}
                 </p>
 
-              <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common btn-rm readmore">Read More</a>
+              <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common btn-rm readmore">More about festival</a>
               </div>
             </div>
           </div>
@@ -103,11 +103,11 @@ canonical: https://improfestivals.com
 
             <div class="blog-block blog block carousel-post">
              {% if post.image %}
-              <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" alt=""></a>
+              <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" alt="{{post.name}}" title="{{post.name}} improv festival"></a>
              {% endif %}
               <h5>{{ post.name }}</h5>
               <p>{{ post.slogan }}</p>
-              <a href="{{ BASE_PATH }}{{ post.url }}">Read more <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+              <a href="{{ BASE_PATH }}{{ post.url }}">More about festival <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
             {% endif %}
            {% endfor %}
