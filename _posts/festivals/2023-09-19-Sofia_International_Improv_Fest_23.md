@@ -6,7 +6,7 @@ country: "Bulgaria"
 city: "Sofia"
 start_date: "2023-09-19T00:00:00Z"
 end_date: "2023-09-23T00:00:00Z"
-website: "www.shizi.bg/soimprovfest"
+website: "https://www.shizi.bg/soimprovfest"
 image: "https://drive.google.com/uc?export=view&id=1jakJFcMy1fxlx2R03_7yyHCddYpzkZoz"
 slogan: "Improv at its Bunniest!"
 languages: [English,Bulgarian]
