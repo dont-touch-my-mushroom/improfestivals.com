@@ -7,7 +7,7 @@ city: "Auckland"
 start_date: "2023-04-11T00:00:00Z"
 end_date: "2023-04-16T00:00:00Z"
 website: "http://aucklandimprovfestival.com/"
-image: "https:%2F%2Fstorage.googleapis.com%2Fimprofestivals_images%2F309377273_518406533623658_353832290975872679_n%20-%20Mat%C3%ADas%20Avaca.jpeg"
+image: "https:%2F%2Fstorage.googleapis.com%2Fimprofestivals_images%2F309377273_518406533623658_353832290975872679_n - Matías Avaca.jpeg"
 slogan: "NA"
 languages: [English]
 accommodation: false
