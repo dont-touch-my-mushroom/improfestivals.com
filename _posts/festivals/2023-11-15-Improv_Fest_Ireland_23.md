@@ -7,7 +7,7 @@ city: "Dublin"
 start_date: "2023-11-15T00:00:00Z"
 end_date: "2023-11-18T00:00:00Z"
 website: "https://www.improvfestireland.com"
-image: "https://drive.google.com/uc?export=view&id=1UHJz9HgMtyk5Gjy7_XM8qj1LniUvidF8"
+image: "https:%2F%2Fstorage.googleapis.com%2Fimprofestivals_images%2FFb%20Crop%20-%20Neil%20Curran.png"
 slogan: "All craic, all made up in the heart of Dublin City"
 languages: [English]
 accommodation: false

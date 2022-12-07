@@ -7,7 +7,7 @@ city: "Edinburgh"
 start_date: "2023-03-02T00:00:00Z"
 end_date: "2023-03-05T00:00:00Z"
 website: "https://www.edimprovfest.com/"
-image: "https://drive.google.com/uc?export=view&id=1Cq20utxwoeJx-L6_35zocFR6pn2koHwR"
+image: "https:%2F%2Fstorage.googleapis.com%2Fimprofestivals_images%2Feiif%20-%20Impro%20Festivals.png"
 slogan: "A four-day festival in celebration of improv."
 languages: [English]
 accommodation: false
