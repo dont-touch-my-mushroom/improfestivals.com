@@ -7,7 +7,7 @@ city: "Athens"
 start_date: "2023-05-30T00:00:00Z"
 end_date: "2023-06-03T00:00:00Z"
 website: "https://mountolymprov.com/"
-image: "https:%2F%2Fstorage.googleapis.com%2Fimprofestivals_images%2Fimprozeus-alone - Impro Festivals.png"
+image: "https://storage.googleapis.com/improfestivals_images/improzeus-alone%20-%20Impro%20Festivals.png"
 slogan: "With a stellar lineup of 11 instructors and 16 different shows from all around"
 languages: [English]
 accommodation: true

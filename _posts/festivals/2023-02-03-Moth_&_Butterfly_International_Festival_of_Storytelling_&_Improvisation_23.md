@@ -7,7 +7,7 @@ city: "Galway"
 start_date: "2023-02-03T00:00:00Z"
 end_date: "2023-02-05T00:00:00Z"
 website: "www.mothandbutterflystories.com"
-image: "https:%2F%2Fstorage.googleapis.com%2Fimprofestivals_images%2FMB Banner1 - Moth AndButterfly.jpg"
+image: "https://storage.googleapis.com/improfestivals_images/MB%20Banner1%20-%20Moth%20AndButterfly.jpg"
 slogan: "“Full of heart - one of Ireland’s warmest events""
 languages: [English,Irish]
 accommodation: false
