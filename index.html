@@ -69,7 +69,11 @@ canonical: https://improfestivals.com
           <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 blog-item">
             <div class="blog-item-wrapper">
               <div class="blog-item-img">
-                <a href="{{ BASE_PATH }}{{ post.url }}"> <img src="{{ post.image }}" alt="{{post.name}}" title="{{post.name}} improv festival"> </a>
+                <a href="{{ BASE_PATH }}{{ post.url }}">
+                  <div class="spacer"></div>
+                   <img src="{{ post.image }}" alt="{{post.name}}" title="{{post.name}} improv festival"> 
+                   <div class="spacer"></div>
+                </a>
               </div>
               <div class="blog-item-text">
                 <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
