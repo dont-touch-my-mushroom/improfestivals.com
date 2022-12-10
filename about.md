@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Add Festival
 permalink: /about/
 group: navigation
 logo: logo_name_white.png
