@@ -148,6 +148,20 @@ margin-bottom: 20px;
     color: $main-color;
     display: inline;
   }
+
+  .social-links {
+    display: flex;
+
+    >li {
+      flex: 1;
+      
+      a {
+        display: flex;
+        justify-content: center; 
+        color: $main-color;
+      }
+    }
+  }
 }
 
 .map {
@@ -229,14 +243,11 @@ margin-bottom: 20px;
   max-height: 200px;
   display: flex;
 
-  .spacer {
-    flex: 1;
-  }
-
   a {
     width: 100%;
     display: flex;
-    
+    justify-content: center;
+
     img {
       width: unset;
       max-width: 100%;
@@ -244,3 +255,4 @@ margin-bottom: 20px;
     }
   }
 }
+

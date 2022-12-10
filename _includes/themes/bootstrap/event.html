@@ -34,33 +34,45 @@
               {{ page.city }}
             </li>
             <li>
-              <i class="fa fa-link icons cyan-color contact-info-icon" title="Website"></i>
-             <a href="{{ page.website }}"  target="_blank"> {{ page.website }} </a>
-            </li>
-            <li>
               <i class="fa fa-language icons cyan-color contact-info-icon"
               title="Languages"></i>
               {{ page.languages | join: ", "}}
             </li>
+            {% if page.accommodation %}
             <li>
               <i class="fa fa-hotel icons cyan-color contact-info-icon"
               title="Accommodation offered by the festival?"></i>
-              {% if page.accommodation %} Yes {% else %} No {% endif %}
+               Accommodation offered
             </li>
+            {% endif %}
             {% if page.mixers %}
             <li>
               <i class="fa  icons cyan-color contact-info-icon" title="Will there be mixer shows?"></i>
               Mixer shows!
             </li>
             {% endif %}
-
-
-            {% if page.facebook %}
             <li>
-              <a href="{{ page.facebook }}" target="_blank"><i class="fa fa-facebook icons cyan-color contact-info-icon"></i>
-                Facebook event page</a>
+              <i class="fa fa-link icons cyan-color contact-info-icon" title="Official Website"></i>
+             <a href="{{ page.website }}"  target="_blank"> Official website </a>
+            </li>
+
+            <ul class="social-links">
+              {% if page.facebook != "" %}
+              <li>
+                <a href="{{ page.facebook }}" target="_blank" class="fa fa-facebook"></a>
               </li>
               {% endif %}
+              {% if page.twitter != "" %}
+              <li>
+                <a href="{{ page.twitter }}" target="_blank" class="fa fa-twitter"></a>
+              </li>
+              {% endif %}
+              {% if page.instagram != "" %}
+              <li>
+                <a href="{{ page.instagram }}" target="_blank" class="fa fa-instagram"></a>
+              </li>
+              {% endif %}
+            </ul>
 
             </ul>
 
