@@ -13,9 +13,9 @@ languages: [English,Greek]
 accommodation: false
 mixers: true
 organizer: 
-facebook: "https://"
-instagram: "https://"
-twitter: "https://"
+facebook: ""
+instagram: ""
+twitter: ""
 ---
 
 A summer Intensive Retreat 
