@@ -104,7 +104,14 @@ a:hover {
   margin-bottom: 5px; }
 
 .about-sidebar-widget, .categories-sidebar-widget, .blog-posts-widget {
-  padding-left: 20px; }
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column; }
+  .about-sidebar-widget .contact-info, .categories-sidebar-widget .contact-info, .blog-posts-widget .contact-info {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 0; }
 
 .no-padding-sides {
   padding-left: 0;
@@ -157,3 +164,10 @@ a:hover {
       width: unset;
       max-width: 100%;
       max-height: 100%; }
+
+.vertical-flexer {
+  flex: 1; }
+
+.blog-item-text p {
+  margin: 10px 0;
+  min-height: 50px; }
