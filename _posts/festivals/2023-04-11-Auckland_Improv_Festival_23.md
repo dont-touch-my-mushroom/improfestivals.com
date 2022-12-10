@@ -15,7 +15,7 @@ mixers: true
 organizer: 
 facebook: "https://www.facebook.com/aucklandImprovFestival"
 instagram: "https://www.instagram.com/aucklandimprovfestival/"
-twitter: ""
+twitter: "https://"
 ---
 
 We have big news! We’re delighted to announce that international guest instructors Dan O'Connor, Patti Stiles Impro - official page and Andel Sudik will be joining us for the 2023 Auckland Improv Festival.

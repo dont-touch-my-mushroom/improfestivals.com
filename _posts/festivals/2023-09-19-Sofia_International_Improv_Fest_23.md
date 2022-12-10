@@ -14,8 +14,8 @@ accommodation: false
 mixers: true
 organizer: 
 facebook: "https://www.facebook.com/soimprovfest"
-instagram: ""
-twitter: ""
+instagram: "https://"
+twitter: "https://"
 ---
 
 6-th International Sofia Improv Fest
