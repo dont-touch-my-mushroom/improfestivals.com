@@ -106,7 +106,8 @@ a:hover {
 .about-sidebar-widget, .categories-sidebar-widget, .blog-posts-widget {
   padding-left: 20px;
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  margin-bottom: 16px; }
   .about-sidebar-widget .contact-info, .categories-sidebar-widget .contact-info, .blog-posts-widget .contact-info {
     display: flex;
     flex-direction: column;
