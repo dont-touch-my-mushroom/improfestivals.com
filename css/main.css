@@ -81,6 +81,14 @@ a:hover {
   font-size: 16px;
   color: #01a7f5;
   display: inline; }
+.contact-info .social-links {
+  display: flex; }
+  .contact-info .social-links > li {
+    flex: 1; }
+    .contact-info .social-links > li a {
+      display: flex;
+      justify-content: center;
+      color: #01a7f5; }
 
 .map {
   width: 100%;
@@ -137,3 +145,15 @@ a:hover {
 
 .upcoming .col-md-4 {
   margin: 20px 0; }
+
+.blog-item-img {
+  max-height: 200px;
+  display: flex; }
+  .blog-item-img a {
+    width: 100%;
+    display: flex;
+    justify-content: center; }
+    .blog-item-img a img {
+      width: unset;
+      max-width: 100%;
+      max-height: 100%; }

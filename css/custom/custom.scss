@@ -148,6 +148,20 @@ margin-bottom: 20px;
     color: $main-color;
     display: inline;
   }
+
+  .social-links {
+    display: flex;
+
+    >li {
+      flex: 1;
+      
+      a {
+        display: flex;
+        justify-content: center; 
+        color: $main-color;
+      }
+    }
+  }
 }
 
 .map {
@@ -224,3 +238,21 @@ margin-bottom: 20px;
 .upcoming .col-md-4 {
   margin: 20px 0;
 }
+
+.blog-item-img {
+  max-height: 200px;
+  display: flex;
+
+  a {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    img {
+      width: unset;
+      max-width: 100%;
+      max-height: 100%
+    }
+  }
+}
+
