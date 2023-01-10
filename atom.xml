@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-01-10T00:02:25+00:00</updated>
+ <updated>2023-01-10T21:58:48+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -21,6 +21,16 @@
    <content type="html">&lt;p&gt;Ireland’s original international festival celebrating improvised theatre and comedy featuring workshops, shows, mixers and jams and probably the greatest improv after party in the world!&lt;/p&gt;
 
 </content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>IFO Impro Fest</title>
+   <link href="http://localhost:4000/IFO_Impro_Fest_23"/>
+   <id>http://localhost:4000/IFO_Impro_Fest_23</id>
+   <updated>2023-11-02T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;In March 2020, at the very beginning of the pandemic, Impro Fest Online started as the first digital festival for improvised theatre. Created in times of crisis, through the collaboration of actors from all over Germany and Austria, the IFO is a project from the community for the community. After...</content>
  </entry>
 
  
@@ -43,6 +53,16 @@
    <content type="html">&lt;p&gt;A summer Intensive Retreat&lt;/p&gt;
 
 </content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Pandora Improv Festival</title>
+   <link href="http://localhost:4000/Pandora_Improv_Festival_23"/>
+   <id>http://localhost:4000/Pandora_Improv_Festival_23</id>
+   <updated>2023-06-09T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;#PANDORA IMPROV FESTIVAL&lt;/p&gt; &lt;h2 id=&quot;3-days-of-music-love-and-improv&quot;&gt;3 days of music, love and improv&lt;/h2&gt; &lt;p&gt;Pandora is an improv experience next to the seaside in Italy. 3 days full of events, workshops, shows, partytime, good food and wine, and much more! All the students coming in Pandora have the same program: 9 or 12...</content>
  </entry>
 
  
@@ -93,16 +113,6 @@
    <id>http://localhost:4000/Moth_&_Butterfly_International_Festival_of_Storytelling_&_Improvisation_23</id>
    <updated>2023-02-03T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Moth &amp;amp; Butterfly International Festival of Storytelling &amp;amp; Improvisation is an Arts festival based in Galway in the West of Ireland. Our first festival was in 2021 and was presented digitally, in 2022 was hybrid with live events and the 2023 festival will be fully live from Galway, while retaining...</content>
- </entry>
-
- 
-
- <entry>
-   <title>SPUNK</title>
-   <link href="http://localhost:4000/SPUNK_22"/>
-   <id>http://localhost:4000/SPUNK_22</id>
-   <updated>2022-10-10T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;theater anundpfirsich invites you to the 10th and last edition of SPUNK, the Zurich Improtheater Festival.&lt;/p&gt; &lt;p&gt;From October 10 to 16, 2022, the festival ensemble shows with top-class guests from the USA, Great Britain, Poland, Germany, the Netherlands, Austria, Slovenia and Switzerland what improvised theater has to offer. The audience...</content>
  </entry>
 
  
