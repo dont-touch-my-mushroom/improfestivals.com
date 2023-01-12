@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-01-12T00:00:49+00:00</updated>
+ <updated>2023-01-12T12:06:46+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -58,6 +58,16 @@
  
 
  <entry>
+   <title>IRREVERENTE</title>
+   <link href="http://localhost:4000/IRREVERENTE_23"/>
+   <id>http://localhost:4000/IRREVERENTE_23</id>
+   <updated>2023-07-26T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The Festival intends to bring together the impro community living in Portugal with other countries, by promoting an event with activities in Theater, Dance, Music and other forms of art.&lt;/p&gt; &lt;p&gt;Our irreverence seeks to break preconceived concepts, about the art of improvisation and the art that is created in contemporaneity,...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Pandora Improv Festival</title>
    <link href="http://localhost:4000/Pandora_Improv_Festival_23"/>
    <id>http://localhost:4000/Pandora_Improv_Festival_23</id>
@@ -103,16 +113,6 @@
    <id>http://localhost:4000/Impro_Amsterdam_2023_23</id>
    <updated>2023-02-25T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;From the 25th of February to the 4th of March, IMPRO Amsterdam 2023 will rock Amsterdam Noord with eight days of high-quality international Improvisational Theatre. We have 29 shows from all over the world and 34 workshops that will teach you new skills or sharpen old ones.&lt;/p&gt; &lt;p&gt;Join us for...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Moth & Butterfly International Festival of Storytelling & Improvisation</title>
-   <link href="http://localhost:4000/Moth_&_Butterfly_International_Festival_of_Storytelling_&_Improvisation_23"/>
-   <id>http://localhost:4000/Moth_&_Butterfly_International_Festival_of_Storytelling_&_Improvisation_23</id>
-   <updated>2023-02-03T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Moth &amp;amp; Butterfly International Festival of Storytelling &amp;amp; Improvisation is an Arts festival based in Galway in the West of Ireland. Our first festival was in 2021 and was presented digitally, in 2022 was hybrid with live events and the 2023 festival will be fully live from Galway, while retaining...</content>
  </entry>
 
  
