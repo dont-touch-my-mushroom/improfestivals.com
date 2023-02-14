@@ -6,7 +6,7 @@ group: navigation
 logo: logo_name_white.png
 ---
 
-**Improfestival.com** is a personal project to be able to keep track of all the 
+**Improfestivals.com** is a personal project to be able to keep track of all the 
 impro festivals.
 
 I love impro and I love attending festivals. However, it's quite hard to keep
