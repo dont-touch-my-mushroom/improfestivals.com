@@ -8,7 +8,7 @@ start_date: "2023-02-03T00:00:00Z"
 end_date: "2023-02-05T00:00:00Z"
 website: "https://www.mothandbutterflystories.com"
 image: "https://storage.googleapis.com/improfestivals_images/MB%20Banner1%20-%20Moth%20AndButterfly.jpg"
-slogan: "“Full of heart - one of Ireland’s warmest events""
+slogan: "Full of heart - one of Ireland's warmest events"
 languages: [English,Irish]
 accommodation: false
 mixers: true
