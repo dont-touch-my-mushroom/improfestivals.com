@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-02-14T20:35:42+00:00</updated>
+ <updated>2023-02-15T00:02:27+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -101,7 +101,7 @@ Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
    <link href="http://localhost:4000/Mount_Olymprov_23"/>
    <id>http://localhost:4000/Mount_Olymprov_23</id>
    <updated>2023-05-30T00:00:00+00:00</updated>
-   <content type="html">&lt;h1 id=&quot;welcome-to-mount-olymprov-festival&quot;&gt;Welcome to Mount Olymprov Festival&lt;/h1&gt; &lt;p&gt;After a 3 year pause due to the pandemic, we are back, bigger and better than ever. With a lineup that will blow your mind, and activities that will make you fall in love with Greece, it is the obvious choice for next summer.&lt;/p&gt;...</content>
+   <content type="html">&lt;h2 id=&quot;welcome-to-mount-olymprov-festival&quot;&gt;Welcome to Mount Olymprov Festival&lt;/h2&gt; &lt;p&gt;After a 3 year pause due to the pandemic, we are back, bigger and better than ever. With a lineup that will blow your mind, and activities that will make you fall in love with Greece, it is the obvious choice for next summer.&lt;/p&gt;...</content>
  </entry>
 
  
