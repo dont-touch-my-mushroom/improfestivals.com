@@ -28,6 +28,18 @@ h3 {
 footer.default-footer {
   padding: 60px 0;
 
+  .container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .footer-logo {
+      max-width: 100%;
+    }
+  }
+
+
   a {
   //   background-color: $main-color;
     color: $main-color;
