@@ -14,6 +14,13 @@ h3 {
 
 footer.default-footer {
   padding: 60px 0; }
+  footer.default-footer .container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    footer.default-footer .container .footer-logo {
+      max-width: 100%; }
   footer.default-footer a {
     color: #01a7f5; }
 
