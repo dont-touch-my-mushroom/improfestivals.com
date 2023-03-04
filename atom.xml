@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-03-04T20:21:07+00:00</updated>
+ <updated>2023-03-04T20:30:09+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -41,16 +41,6 @@
    <id>http://localhost:4000/Sofia_International_Improv_Fest_23</id>
    <updated>2023-09-20T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;We are happy to invite you to the 6-th International Sofia Improv Festival.  20-24 September 2023, Sofia, Bulgaria&lt;/p&gt; &lt;p&gt;&lt;strong&gt;GENRES&lt;/strong&gt; is the topic of this year’s festival. Join us in celebrating improv! Four groups will perform four different improv shows in distinct genres. The performers will be teaching master classes in the respective...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Sofia International Improv Fest</title>
-   <link href="http://localhost:4000/Sofia_International_Improv_Fest_23"/>
-   <id>http://localhost:4000/Sofia_International_Improv_Fest_23</id>
-   <updated>2023-09-19T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;6-th International Sofia Improv Fest&lt;/p&gt; &lt;p&gt;Join us in celebrating improv! ​ Masterful and fun teachers with lots of experience to learn from and hone your skills Lots of performance opportunities on our beautiful theatrical stage Fun afterparties at our dedicated improv club with a bar One of the friendliest improv...</content>
  </entry>
 
  
@@ -122,6 +112,20 @@ Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
    <id>http://localhost:4000/Auckland_Improv_Festival_23</id>
    <updated>2023-04-11T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;We have big news! We’re delighted to announce that international guest instructors Dan O’Connor, Patti Stiles Impro - official page and Andel Sudik will be joining us for the 2023 Auckland Improv Festival.&lt;/p&gt; &lt;p&gt;The festival will take place in Auckland between April 11th and April 16th, 2023. During that week,...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Short Notice Improv Festival</title>
+   <link href="http://localhost:4000/Short_Notice_Improv_Festival_23"/>
+   <id>http://localhost:4000/Short_Notice_Improv_Festival_23</id>
+   <updated>2023-03-04T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Welcome to seven days of live comedy, great workshops and community!&lt;/p&gt;
+
+&lt;p&gt;It even has the full Norwegian wood experience, the BIG DAY OUT!&lt;/p&gt;
+
+</content>
  </entry>
 
  
