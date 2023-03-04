@@ -31,20 +31,6 @@ An optional hiking day to the beautiful Vitosha mountain just half hour away fro
 
 An affordable travel destination with great food and fun people! Check us out!
 
-www.shizi.bg/soimprovfest
-www.facebook.com/soimprovfest/
-
-
-Join us in celebrating improv! 
-​
-Masterful and fun teachers with lots of experience to learn from and hone your skills
-Lots of performance opportunities on our beautiful theatrical stage
-Fun afterparties at our dedicated improv club with a bar
-One of the friendliest improv communities in Europe 
-
-An optional hiking day to the beautiful Vitosha mountain
- 
-All of that at an affordable travel destination with great food and fun people! Check us out!
-
-www.shizi.bg/soimprovfest
+[www.shizi.bg/soimprovfest](https://www.shizi.bg/soimprovfest)
+[www.facebook.com/soimprovfest/](https://www.facebook.com/soimprovfest/)
 
