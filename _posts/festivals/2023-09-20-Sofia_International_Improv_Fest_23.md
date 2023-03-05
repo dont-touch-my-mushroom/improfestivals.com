@@ -31,6 +31,7 @@ An optional hiking day to the beautiful Vitosha mountain just half hour away fro
 
 An affordable travel destination with great food and fun people! Check us out!
 
-[www.shizi.bg/soimprovfest](https://www.shizi.bg/soimprovfest)
+[www.shizi.bg/soimprovfest](https://www.shizi.bg/soimprovfest
+
 [www.facebook.com/soimprovfest/](https://www.facebook.com/soimprovfest/)
 
