@@ -17,6 +17,11 @@
     </url>
 
     <url>
+      <loc>https://improfestivals.com/Barcelona_Improv_Festival_23</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Sofia_International_Improv_Fest_23</loc>
       <priority>0.5</priority>
     </url>

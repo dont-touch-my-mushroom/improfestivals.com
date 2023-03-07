@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-03-06T00:02:27+00:00</updated>
+ <updated>2023-03-07T00:00:51+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -31,6 +31,16 @@
    <id>http://localhost:4000/IFO_Impro_Fest_23</id>
    <updated>2023-11-02T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;In March 2020, at the very beginning of the pandemic, Impro Fest Online started as the first digital festival for improvised theatre. Created in times of crisis, through the collaboration of actors from all over Germany and Austria, the IFO is a project from the community for the community. After...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Barcelona Improv Festival</title>
+   <link href="http://localhost:4000/Barcelona_Improv_Festival_23"/>
+   <id>http://localhost:4000/Barcelona_Improv_Festival_23</id>
+   <updated>2023-10-25T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The Barcelona Improv Festival is an annual celebration of European and worldwide improv, bringing together hundreds of improvisers from around the world to play, learn, and mix creatives from different cultures with diverse approaches to our art form. The festival is a mix of workshops during the day, performances by...</content>
  </entry>
 
  
@@ -112,20 +122,6 @@ Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
    <id>http://localhost:4000/Auckland_Improv_Festival_23</id>
    <updated>2023-04-11T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;We have big news! We’re delighted to announce that international guest instructors Dan O’Connor, Patti Stiles Impro - official page and Andel Sudik will be joining us for the 2023 Auckland Improv Festival.&lt;/p&gt; &lt;p&gt;The festival will take place in Auckland between April 11th and April 16th, 2023. During that week,...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Short Notice Improv Festival</title>
-   <link href="http://localhost:4000/Short_Notice_Improv_Festival_23"/>
-   <id>http://localhost:4000/Short_Notice_Improv_Festival_23</id>
-   <updated>2023-04-03T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Welcome to seven days of live comedy, great workshops and community!&lt;/p&gt;
-
-&lt;p&gt;It even has the full Norwegian wood experience, the BIG DAY OUT!&lt;/p&gt;
-
-</content>
  </entry>
 
  
