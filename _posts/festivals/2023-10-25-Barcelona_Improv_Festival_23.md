@@ -7,7 +7,7 @@ city: "Barcelona"
 start_date: "2023-10-25T00:00:00Z"
 end_date: "2023-10-29T00:00:00Z"
 website: "http://barcelonaimprovfestival.com/"
-image: "https://storage.googleapis.com/improfestivals_images/Team%20Application%20Square%20-%20Noah%20Levin.jpeg"
+image: "https://storage.googleapis.com/improfestivals_images/IMG-20230308-WA0030.jpg"
 slogan: "Improv Fun in the Mediterranean Sun"
 languages: [English]
 accommodation: true
