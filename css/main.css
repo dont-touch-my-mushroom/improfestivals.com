@@ -91,7 +91,8 @@ a:hover {
 .contact-info .social-links {
   display: flex; }
   .contact-info .social-links > li {
-    flex: 1; }
+    flex: 1;
+    margin-bottom: 0; }
     .contact-info .social-links > li a {
       display: flex;
       justify-content: center;
