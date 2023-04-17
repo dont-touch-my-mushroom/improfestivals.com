@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-04-17T00:03:02+00:00</updated>
+ <updated>2023-04-17T15:43:11+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -41,6 +41,16 @@
    <id>http://localhost:4000/Barcelona_Improv_Festival_23</id>
    <updated>2023-10-25T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The Barcelona Improv Festival is an annual celebration of European and worldwide improv, bringing together hundreds of improvisers from around the world to play, learn, and mix creatives from different cultures with diverse approaches to our art form. The festival is a mix of workshops during the day, performances by...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>The Remix Festival</title>
+   <link href="http://localhost:4000/The_Remix_Festival_23"/>
+   <id>http://localhost:4000/The_Remix_Festival_23</id>
+   <updated>2023-10-06T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;This festival will be a full weekend of musical improv comedy joy! We’ve gathered four amazing teachers to come to Edinburgh and teach you the skills you’ll need to have the best possible time performing completely improvised musical comedy as part of short form, in your normal improv shows, or...</content>
  </entry>
 
  
@@ -112,16 +122,6 @@ Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
    <id>http://localhost:4000/Pandora_Improv_Festival_23</id>
    <updated>2023-06-09T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;#PANDORA IMPROV FESTIVAL&lt;/p&gt; &lt;h2 id=&quot;3-days-of-music-love-and-improv&quot;&gt;3 days of music, love and improv&lt;/h2&gt; &lt;p&gt;Pandora is an improv experience next to the seaside in Italy. 3 days full of events, workshops, shows, partytime, good food and wine, and much more! All the students coming in Pandora have the same program: 9 or 12...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Mount Olymprov</title>
-   <link href="http://localhost:4000/Mount_Olymprov_23"/>
-   <id>http://localhost:4000/Mount_Olymprov_23</id>
-   <updated>2023-05-30T00:00:00+00:00</updated>
-   <content type="html">&lt;h1 id=&quot;welcome-to-mount-olymprov-festival&quot;&gt;Welcome to Mount Olymprov Festival&lt;/h1&gt; &lt;p&gt;After a 3 year pause due to the pandemic, we are back, bigger and better than ever. With a lineup that will blow your mind, and activities that will make you fall in love with Greece, it is the obvious choice for next summer.&lt;/p&gt;...</content>
  </entry>
 
  
