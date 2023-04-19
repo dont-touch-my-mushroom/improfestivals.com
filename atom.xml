@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-04-17T23:00:46+00:00</updated>
+ <updated>2023-04-19T23:00:31+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -117,11 +117,11 @@ Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
  
 
  <entry>
-   <title>Pandora Improv Festival</title>
-   <link href="http://localhost:4000/Pandora_Improv_Festival_23"/>
-   <id>http://localhost:4000/Pandora_Improv_Festival_23</id>
-   <updated>2023-06-09T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;#PANDORA IMPROV FESTIVAL&lt;/p&gt; &lt;h2 id=&quot;3-days-of-music-love-and-improv&quot;&gt;3 days of music, love and improv&lt;/h2&gt; &lt;p&gt;Pandora is an improv experience next to the seaside in Italy. 3 days full of events, workshops, shows, partytime, good food and wine, and much more! All the students coming in Pandora have the same program: 9 or 12...</content>
+   <title>Flock Festival - Project 2x2 mini-festival</title>
+   <link href="http://localhost:4000/Flock_Festival_-_Project_2x2_mini-festival_23"/>
+   <id>http://localhost:4000/Flock_Festival_-_Project_2x2_mini-festival_23</id>
+   <updated>2023-06-17T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;At Flock Theatre, we love working with other artists from all over the world. Katy Schutte and Chris Mead are two fantastic improvisers from the United Kingdoms: they are accomplished multi-talented artists, great teachers and brilliant performers. They are also our friends!&lt;/p&gt; &lt;p&gt;For this edition of our Flock Festival, we—Laura...</content>
  </entry>
 
  
