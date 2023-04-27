@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-04-27T00:02:31+00:00</updated>
+ <updated>2023-04-27T23:00:35+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -76,6 +76,16 @@
  
 
  <entry>
+   <title>Lyon Improv Fest</title>
+   <link href="http://localhost:4000/Lyon_Improv_Fest_23"/>
+   <id>http://localhost:4000/Lyon_Improv_Fest_23</id>
+   <updated>2023-08-20T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Through the Lyon Improv Fest, we want to create a shared experience of transcendence, where performers and audience members come together to create something greater than themselves. This can lead to a sense of community and connectedness, as well as a deeper understanding of ourselves and our place in the...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Samothrace Improv Retreat</title>
    <link href="http://localhost:4000/Samothrace_Improv_Retreat_23"/>
    <id>http://localhost:4000/Samothrace_Improv_Retreat_23</id>
@@ -112,16 +122,6 @@ Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
    <id>http://localhost:4000/IRREVERENTE_23</id>
    <updated>2023-07-26T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The Festival intends to bring together the impro community living in Portugal with other countries, by promoting an event with activities in Theater, Dance, Music and other forms of art.&lt;/p&gt; &lt;p&gt;Our irreverence seeks to break preconceived concepts, about the art of improvisation and the art that is created in contemporaneity,...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Flock Festival - Project 2x2 mini-festival</title>
-   <link href="http://localhost:4000/Flock_Festival_-_Project_2x2_mini-festival_23"/>
-   <id>http://localhost:4000/Flock_Festival_-_Project_2x2_mini-festival_23</id>
-   <updated>2023-06-17T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;At Flock Theatre, we love working with other artists from all over the world. Katy Schutte and Chris Mead are two fantastic improvisers from the United Kingdoms: they are accomplished multi-talented artists, great teachers and brilliant performers. They are also our friends!&lt;/p&gt; &lt;p&gt;For this edition of our Flock Festival, we—Laura...</content>
  </entry>
 
  
