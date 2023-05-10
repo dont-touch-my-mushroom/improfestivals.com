@@ -22,6 +22,11 @@
     </url>
 
     <url>
+      <loc>https://improfestivals.com/Vancouver_Improv_Festival_23</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/The_Remix_Festival_23</loc>
       <priority>0.5</priority>
     </url>

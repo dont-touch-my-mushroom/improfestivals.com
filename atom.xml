@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-05-10T00:02:30+00:00</updated>
+ <updated>2023-05-10T23:00:38+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -41,6 +41,18 @@
    <id>http://localhost:4000/Barcelona_Improv_Festival_23</id>
    <updated>2023-10-25T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The Barcelona Improv Festival is an annual celebration of European and worldwide improv, bringing together hundreds of improvisers from around the world to play, learn, and mix creatives from different cultures with diverse approaches to our art form. The festival is a mix of workshops during the day, performances by...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Vancouver Improv Festival</title>
+   <link href="http://localhost:4000/Vancouver_Improv_Festival_23"/>
+   <id>http://localhost:4000/Vancouver_Improv_Festival_23</id>
+   <updated>2023-10-10T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The 25th Vancouver Improv Fest takes place October 10-15, 2023. Featuring acts from North America and beyond, plus the Festival Ensemble! Festival includes 14 two-act shows, 15 public workshops, a panel and community events. Performer applications open May 15-June 30.&lt;/p&gt;
+
+</content>
  </entry>
 
  
@@ -112,16 +124,6 @@ with STACEY SMITH, HEATHER URQUHART, JOE SAMUEL,  SACHA HOEDEMAKER, LARRY DORSEY
 Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
 
 </content>
- </entry>
-
- 
-
- <entry>
-   <title>IRREVERENTE</title>
-   <link href="http://localhost:4000/IRREVERENTE_23"/>
-   <id>http://localhost:4000/IRREVERENTE_23</id>
-   <updated>2023-07-26T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The Festival intends to bring together the impro community living in Portugal with other countries, by promoting an event with activities in Theater, Dance, Music and other forms of art.&lt;/p&gt; &lt;p&gt;Our irreverence seeks to break preconceived concepts, about the art of improvisation and the art that is created in contemporaneity,...</content>
  </entry>
 
  
