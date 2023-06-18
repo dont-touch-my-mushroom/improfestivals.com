@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-06-18T00:02:51+00:00</updated>
+ <updated>2023-06-18T23:00:57+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -68,6 +68,16 @@
  
 
  <entry>
+   <title>Das Improv Festival</title>
+   <link href="http://localhost:4000/Das_Improv_Festival_23"/>
+   <id>http://localhost:4000/Das_Improv_Festival_23</id>
+   <updated>2023-09-28T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Berlin’s first festival for long-form improv organised in collaboration with &lt;a href=&quot;https://www.comedycafeberlin.com/&quot;&gt;Comedy Cafe berlin&lt;/a&gt; first took place in 2019 and restarted in 2023 after a short break.&lt;/p&gt; &lt;p&gt;The festival features teams from across Europe and North America with an exciting slate of headline acts from around the world and top-notch...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Sofia International Improv Fest</title>
    <link href="http://localhost:4000/Sofia_International_Improv_Fest_23"/>
    <id>http://localhost:4000/Sofia_International_Improv_Fest_23</id>
@@ -103,25 +113,6 @@
    <id>http://localhost:4000/Samothrace_Improv_Retreat_23</id>
    <updated>2023-07-31T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;A summer Intensive Retreat&lt;/p&gt;
-
-</content>
- </entry>
-
- 
-
- <entry>
-   <title>The Big Sing Musical Improv Festival</title>
-   <link href="http://localhost:4000/The_Big_Sing_Musical_Improv_Festival_23"/>
-   <id>http://localhost:4000/The_Big_Sing_Musical_Improv_Festival_23</id>
-   <updated>2023-07-26T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;26th - 30th  JULY 2023 
-4 jam-packed days of musical workshops, shows, and improv fun in beautiful BARCELONA, SPAIN.&lt;/p&gt;
-
-&lt;p&gt;SHOWS &amp;amp; WORKSHOPS
-with STACEY SMITH, HEATHER URQUHART, JOE SAMUEL,  SACHA HOEDEMAKER, LARRY DORSEY JR, &amp;amp; MORE.&lt;/p&gt;
-
-&lt;p&gt;APPLY TO PERFORM 
-Applications to perform with your group open  MARCH 1ST 2023.&lt;/p&gt;
 
 </content>
  </entry>
