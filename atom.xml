@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-07-04T00:02:50+00:00</updated>
+ <updated>2023-07-04T23:00:55+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -88,6 +88,16 @@
  
 
  <entry>
+   <title>12. Düsseldorfer Improtheaterfestival</title>
+   <link href="http://localhost:4000/12._D-C3-BCsseldorfer_Improtheaterfestival_23"/>
+   <id>http://localhost:4000/12._D%C3%BCsseldorfer_Improtheaterfestival_23</id>
+   <updated>2023-09-02T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Ein liebevoller Raum für Begegnungen und gemeinsames Arbeiten, zusammen lachen, staunen und fühlen. Mitten in Düsseldorf. Das ist das Düsseldorfer Improtheater-Festival, das auch in diesem Jahr wieder stattfinden wird! Die Phönixallee – Düsseldorfs erstes Improtheater – freut sich im September 2023 wieder auf Gäste aus allen Himmelsrichtungen. Auf dem Programm...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Improfestival Karlsruhe</title>
    <link href="http://localhost:4000/Improfestival_Karlsruhe_23"/>
    <id>http://localhost:4000/Improfestival_Karlsruhe_23</id>
@@ -103,18 +113,6 @@
    <id>http://localhost:4000/Lyon_Improv_Fest_23</id>
    <updated>2023-08-20T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Through the Lyon Improv Fest, we want to create a shared experience of transcendence, where performers and audience members come together to create something greater than themselves. This can lead to a sense of community and connectedness, as well as a deeper understanding of ourselves and our place in the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Samothrace Improv Retreat</title>
-   <link href="http://localhost:4000/Samothrace_Improv_Retreat_23"/>
-   <id>http://localhost:4000/Samothrace_Improv_Retreat_23</id>
-   <updated>2023-07-31T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;A summer Intensive Retreat&lt;/p&gt;
-
-</content>
  </entry>
 
  
