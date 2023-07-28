@@ -4,12 +4,22 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-07-28T00:02:38+00:00</updated>
+ <updated>2023-07-28T23:00:57+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Liverpool Improvisation Festival</title>
+   <link href="http://localhost:4000/Liverpool_Improvisation_Festival_24"/>
+   <id>http://localhost:4000/Liverpool_Improvisation_Festival_24</id>
+   <updated>2024-04-19T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;​Liverpool Improvisation Festival encourages innovation, risk taking and are inspired by those that do. The festival aims to create opportunity for those who create and teach improvised live performance at whatever stage of their career and across multiple art forms. In doing so we aim to educate, inspire and develop...</content>
+ </entry>
 
  
 
@@ -103,16 +113,6 @@
    <id>http://localhost:4000/Improfestival_Karlsruhe_23</id>
    <updated>2023-08-29T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;After a smashing success in 2022 we are happy to be back in 2023 with even more shows and workshops.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This year we have a selection of:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;11 ensemble-members (10 actors and actresses and 1 musician)&lt;/li&gt; &lt;li&gt;A total of 13 workshops&lt;/li&gt; &lt;li&gt;And 15 completely different shows&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We are...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Lyon Improv Fest</title>
-   <link href="http://localhost:4000/Lyon_Improv_Fest_23"/>
-   <id>http://localhost:4000/Lyon_Improv_Fest_23</id>
-   <updated>2023-08-20T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Through the Lyon Improv Fest, we want to create a shared experience of transcendence, where performers and audience members come together to create something greater than themselves. This can lead to a sense of community and connectedness, as well as a deeper understanding of ourselves and our place in the...</content>
  </entry>
 
  
