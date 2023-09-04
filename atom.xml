@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-09-04T00:02:45+00:00</updated>
+ <updated>2023-09-04T23:01:22+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -19,6 +19,16 @@
    <id>http://localhost:4000/Liverpool_Improvisation_Festival_24</id>
    <updated>2024-04-19T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;​Liverpool Improvisation Festival encourages innovation, risk taking and are inspired by those that do. The festival aims to create opportunity for those who create and teach improvised live performance at whatever stage of their career and across multiple art forms. In doing so we aim to educate, inspire and develop...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>ImproEM 2024 - European Championship in Improvised Theater</title>
+   <link href="http://localhost:4000/ImproEM_2024_-_European_Championship_in_Improvised_Theater_24"/>
+   <id>http://localhost:4000/ImproEM_2024_-_European_Championship_in_Improvised_Theater_24</id>
+   <updated>2024-04-17T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The ImproEM will be a European Improv Theater Championship with several matches in Munich (Germany) over four weeks in April/May 2024. Of 54 eligible European countries, we will select 18 teams to represent their nation and compete for the finals.&lt;/p&gt; &lt;p&gt;Application for mixed teams of three professional improv players for...</content>
  </entry>
 
  
@@ -103,16 +113,6 @@
    <id>http://localhost:4000/12._D%C3%BCsseldorfer_Improtheaterfestival_23</id>
    <updated>2023-09-02T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Ein liebevoller Raum für Begegnungen und gemeinsames Arbeiten, zusammen lachen, staunen und fühlen. Mitten in Düsseldorf. Das ist das Düsseldorfer Improtheater-Festival, das auch in diesem Jahr wieder stattfinden wird! Die Phönixallee – Düsseldorfs erstes Improtheater – freut sich im September 2023 wieder auf Gäste aus allen Himmelsrichtungen. Auf dem Programm...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Improfestival Karlsruhe</title>
-   <link href="http://localhost:4000/Improfestival_Karlsruhe_23"/>
-   <id>http://localhost:4000/Improfestival_Karlsruhe_23</id>
-   <updated>2023-08-29T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;After a smashing success in 2022 we are happy to be back in 2023 with even more shows and workshops.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This year we have a selection of:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;11 ensemble-members (10 actors and actresses and 1 musician)&lt;/li&gt; &lt;li&gt;A total of 13 workshops&lt;/li&gt; &lt;li&gt;And 15 completely different shows&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We are...</content>
  </entry>
 
  
