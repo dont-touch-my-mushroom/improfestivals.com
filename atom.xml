@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-10-07T00:02:40+00:00</updated>
+ <updated>2023-10-07T23:01:20+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -66,6 +66,16 @@
  
 
  <entry>
+   <title>Improfest 2023</title>
+   <link href="http://localhost:4000/Improfest_2023_23"/>
+   <id>http://localhost:4000/Improfest_2023_23</id>
+   <updated>2023-10-13T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Improfest is the annual, international, inspirational, improvisational, dramational event where Mixed and United have invited impro groups from Belgium and the UK and, most importantly, YOU for three nights of laughter, tears and everything in between. The festival also includes workshops during the day, including stand-up comedy, physical theatre and...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Vancouver Improv Festival</title>
    <link href="http://localhost:4000/Vancouver_Improv_Festival_23"/>
    <id>http://localhost:4000/Vancouver_Improv_Festival_23</id>
@@ -103,16 +113,6 @@
    <id>http://localhost:4000/Sofia_International_Improv_Fest_23</id>
    <updated>2023-09-20T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;We are happy to invite you to the 6-th International Sofia Improv Festival.  20-24 September 2023, Sofia, Bulgaria&lt;/p&gt; &lt;p&gt;&lt;strong&gt;GENRES&lt;/strong&gt; is the topic of this year’s festival. Join us in celebrating improv! Four groups will perform four different improv shows in distinct genres. The performers will be teaching master classes in the respective...</content>
- </entry>
-
- 
-
- <entry>
-   <title>12. Düsseldorfer Improtheaterfestival</title>
-   <link href="http://localhost:4000/12._D-C3-BCsseldorfer_Improtheaterfestival_23"/>
-   <id>http://localhost:4000/12._D%C3%BCsseldorfer_Improtheaterfestival_23</id>
-   <updated>2023-09-02T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Ein liebevoller Raum für Begegnungen und gemeinsames Arbeiten, zusammen lachen, staunen und fühlen. Mitten in Düsseldorf. Das ist das Düsseldorfer Improtheater-Festival, das auch in diesem Jahr wieder stattfinden wird! Die Phönixallee – Düsseldorfs erstes Improtheater – freut sich im September 2023 wieder auf Gäste aus allen Himmelsrichtungen. Auf dem Programm...</content>
  </entry>
 
  
