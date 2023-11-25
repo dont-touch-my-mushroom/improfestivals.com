@@ -7,6 +7,16 @@
 </url>
 
     <url>
+      <loc>https://improfestivals.com/Improfestival_Karlsruhe_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
+      <loc>https://improfestivals.com/Flock_Festival_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Liverpool_Improvisation_Festival_24</loc>
       <priority>0.5</priority>
     </url>

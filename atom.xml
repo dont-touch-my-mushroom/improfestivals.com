@@ -4,12 +4,36 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-11-24T00:02:45+00:00</updated>
+ <updated>2023-11-25T00:01:49+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Improfestival Karlsruhe</title>
+   <link href="http://localhost:4000/Improfestival_Karlsruhe_24"/>
+   <id>http://localhost:4000/Improfestival_Karlsruhe_24</id>
+   <updated>2024-08-24T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;After a smashing success in the last few years we are happy to be back in 2024 with even more shows and workshops.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This year we have a selection of:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;12 ensemble-members (10 actors, 1 musician and 1 technician)&lt;/li&gt; &lt;li&gt;A total of 9 days workshops, including one 3-day workshop...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Flock Festival</title>
+   <link href="http://localhost:4000/Flock_Festival_24"/>
+   <id>http://localhost:4000/Flock_Festival_24</id>
+   <updated>2024-06-24T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The international festival of Flock Theatre comes back with seven crazy days of improvised theatre, workshops, shows and more!&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more information on the line-up of fabulous international teachers and performers soon!&lt;/p&gt;
+
+</content>
+ </entry>
 
  
 
@@ -93,26 +117,6 @@
    <id>http://localhost:4000/The_Remix_Festival_23</id>
    <updated>2023-10-06T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;This festival will be a full weekend of musical improv comedy joy! We’ve gathered four amazing teachers to come to Edinburgh and teach you the skills you’ll need to have the best possible time performing completely improvised musical comedy as part of short form, in your normal improv shows, or...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Das Improv Festival</title>
-   <link href="http://localhost:4000/Das_Improv_Festival_23"/>
-   <id>http://localhost:4000/Das_Improv_Festival_23</id>
-   <updated>2023-09-28T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Berlin’s first festival for long-form improv organised in collaboration with &lt;a href=&quot;https://www.comedycafeberlin.com/&quot;&gt;Comedy Cafe berlin&lt;/a&gt; first took place in 2019 and restarted in 2023 after a short break.&lt;/p&gt; &lt;p&gt;The festival features teams from across Europe and North America with an exciting slate of headline acts from around the world and top-notch...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Sofia International Improv Fest</title>
-   <link href="http://localhost:4000/Sofia_International_Improv_Fest_23"/>
-   <id>http://localhost:4000/Sofia_International_Improv_Fest_23</id>
-   <updated>2023-09-20T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;We are happy to invite you to the 6-th International Sofia Improv Festival.  20-24 September 2023, Sofia, Bulgaria&lt;/p&gt; &lt;p&gt;&lt;strong&gt;GENRES&lt;/strong&gt; is the topic of this year’s festival. Join us in celebrating improv! Four groups will perform four different improv shows in distinct genres. The performers will be teaching master classes in the respective...</content>
  </entry>
 
  
