@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-12-24T00:02:46+00:00</updated>
+ <updated>2023-12-25T00:02:02+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -58,6 +58,26 @@
  
 
  <entry>
+   <title>Edinburgh International Improv Festival</title>
+   <link href="http://localhost:4000/Edinburgh_International_Improv_Festival_24"/>
+   <id>http://localhost:4000/Edinburgh_International_Improv_Festival_24</id>
+   <updated>2024-02-29T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Back for a sixth edition, this beloved improv festival takes place in the heart of Scotland’s beautiful capital city, Edinburgh.&lt;/p&gt; &lt;p&gt;It’s four days of workshops, shows and late night jams. This year’s headliners are &lt;strong&gt;Holy Shit Improv’s Casey Feigh&lt;/strong&gt;, &lt;strong&gt;Suzi Barrett&lt;/strong&gt; and &lt;strong&gt;Ronnie Adrian&lt;/strong&gt;, and &lt;strong&gt;World’s Greatest Improv School’s Will...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>IMPRO Amsterdam</title>
+   <link href="http://localhost:4000/IMPRO_Amsterdam_24"/>
+   <id>http://localhost:4000/IMPRO_Amsterdam_24</id>
+   <updated>2024-02-17T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;IMPRO Amsterdam 2024 will rock Amsterdam Noord with eight days of high-quality international Improvisational Theatre! With 22 shows and more than 40 workshops, the festival is an incredible place to explore and learn about all different aspects of improv taught and performed by improvisers from all over the globe.&lt;/p&gt; &lt;p&gt;Join...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Improv Fest Ireland</title>
    <link href="http://localhost:4000/Improv_Fest_Ireland_23"/>
    <id>http://localhost:4000/Improv_Fest_Ireland_23</id>
@@ -95,28 +115,6 @@
    <id>http://localhost:4000/Improfest_2023_23</id>
    <updated>2023-10-13T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Improfest is the annual, international, inspirational, improvisational, dramational event where Mixed and United have invited impro groups from Belgium and the UK and, most importantly, YOU for three nights of laughter, tears and everything in between. The festival also includes workshops during the day, including stand-up comedy, physical theatre and...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Vancouver Improv Festival</title>
-   <link href="http://localhost:4000/Vancouver_Improv_Festival_23"/>
-   <id>http://localhost:4000/Vancouver_Improv_Festival_23</id>
-   <updated>2023-10-10T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The 25th Vancouver Improv Fest takes place October 10-15, 2023. Featuring acts from North America and beyond, plus the Festival Ensemble! Festival includes 14 two-act shows, 15 public workshops, a panel and community events. Performer applications open May 15-June 30.&lt;/p&gt;
-
-</content>
- </entry>
-
- 
-
- <entry>
-   <title>The Remix Festival</title>
-   <link href="http://localhost:4000/The_Remix_Festival_23"/>
-   <id>http://localhost:4000/The_Remix_Festival_23</id>
-   <updated>2023-10-06T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;This festival will be a full weekend of musical improv comedy joy! We’ve gathered four amazing teachers to come to Edinburgh and teach you the skills you’ll need to have the best possible time performing completely improvised musical comedy as part of short form, in your normal improv shows, or...</content>
  </entry>
 
  
