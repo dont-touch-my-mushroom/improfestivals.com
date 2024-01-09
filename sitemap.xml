@@ -7,7 +7,17 @@
 </url>
 
     <url>
+      <loc>https://improfestivals.com/IFO_Impro_Fest_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Improfestival_Karlsruhe_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
+      <loc>https://improfestivals.com/IRREVERENTE_-_International_Impro_Festival_of_Lisbon_24</loc>
       <priority>0.5</priority>
     </url>
 

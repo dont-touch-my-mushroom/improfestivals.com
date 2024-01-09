@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-01-08T00:03:23+00:00</updated>
+ <updated>2024-01-09T00:01:32+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -14,11 +14,35 @@
  
 
  <entry>
+   <title>IFO Impro Fest</title>
+   <link href="http://localhost:4000/IFO_Impro_Fest_24"/>
+   <id>http://localhost:4000/IFO_Impro_Fest_24</id>
+   <updated>2024-10-31T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The IFO Impro Fest ist one of Germany´s biggest international festival with workshop, shows, party and a lot of improv fun!&lt;/p&gt;
+
+</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Improfestival Karlsruhe</title>
    <link href="http://localhost:4000/Improfestival_Karlsruhe_24"/>
    <id>http://localhost:4000/Improfestival_Karlsruhe_24</id>
    <updated>2024-08-24T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;After a smashing success in the last few years we are happy to be back in 2024 with even more shows and workshops.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This year we have a selection of:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;12 ensemble-members (10 actors, 1 musician and 1 technician)&lt;/li&gt; &lt;li&gt;A total of 9 days workshops, including one 3-day workshop...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>IRREVERENTE - International Impro Festival of Lisbon</title>
+   <link href="http://localhost:4000/IRREVERENTE_-_International_Impro_Festival_of_Lisbon_24"/>
+   <id>http://localhost:4000/IRREVERENTE_-_International_Impro_Festival_of_Lisbon_24</id>
+   <updated>2024-07-24T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The Festival intends to bring together the impro community living in Portugal with other countries, by promoting an event with activities in Theater, Dance, Music and other forms of art. In 2024 we introduce our Experimental Edition with the Theme: Impro and…&lt;/p&gt;
+
+</content>
  </entry>
 
  
@@ -95,26 +119,6 @@
    <id>http://localhost:4000/IFO_Impro_Fest_23</id>
    <updated>2023-11-02T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;In March 2020, at the very beginning of the pandemic, Impro Fest Online started as the first digital festival for improvised theatre. Created in times of crisis, through the collaboration of actors from all over Germany and Austria, the IFO is a project from the community for the community. After...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Barcelona Improv Festival</title>
-   <link href="http://localhost:4000/Barcelona_Improv_Festival_23"/>
-   <id>http://localhost:4000/Barcelona_Improv_Festival_23</id>
-   <updated>2023-10-25T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The Barcelona Improv Festival is an annual celebration of European and worldwide improv, bringing together hundreds of improvisers from around the world to play, learn, and mix creatives from different cultures with diverse approaches to our art form. The festival is a mix of workshops during the day, performances by...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Improfest 2023</title>
-   <link href="http://localhost:4000/Improfest_2023_23"/>
-   <id>http://localhost:4000/Improfest_2023_23</id>
-   <updated>2023-10-13T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Improfest is the annual, international, inspirational, improvisational, dramational event where Mixed and United have invited impro groups from Belgium and the UK and, most importantly, YOU for three nights of laughter, tears and everything in between. The festival also includes workshops during the day, including stand-up comedy, physical theatre and...</content>
  </entry>
 
  
