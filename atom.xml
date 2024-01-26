@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-01-25T00:02:46+00:00</updated>
+ <updated>2024-01-26T00:01:21+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -43,6 +43,16 @@
    <content type="html">&lt;p&gt;The Festival intends to bring together the impro community living in Portugal with other countries, by promoting an event with activities in Theater, Dance, Music and other forms of art. In 2024 we introduce our Experimental Edition with the Theme: Impro and…&lt;/p&gt;
 
 </content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>The Big Sing Musical Improv Festival</title>
+   <link href="http://localhost:4000/The_Big_Sing_Musical_Improv_Festival_24"/>
+   <id>http://localhost:4000/The_Big_Sing_Musical_Improv_Festival_24</id>
+   <updated>2024-06-26T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Welcome to the second edition of The Big Sing Musical Improv Festival! Join us for 4 jam-packed days of musical workshops, shows, and improv fun in beautiful Barcelona, Spain. The Big Sing Musical Improv Festival brings together amateur and professional improvisers and musicians to teach, share, learn, celebrate, and enjoy...</content>
  </entry>
 
  
@@ -109,16 +119,6 @@
    <content type="html">&lt;p&gt;Ireland’s original international festival celebrating improvised theatre and comedy featuring workshops, shows, mixers and jams and probably the greatest improv after party in the world!&lt;/p&gt;
 
 </content>
- </entry>
-
- 
-
- <entry>
-   <title>IFO Impro Fest</title>
-   <link href="http://localhost:4000/IFO_Impro_Fest_23"/>
-   <id>http://localhost:4000/IFO_Impro_Fest_23</id>
-   <updated>2023-11-02T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;In March 2020, at the very beginning of the pandemic, Impro Fest Online started as the first digital festival for improvised theatre. Created in times of crisis, through the collaboration of actors from all over Germany and Austria, the IFO is a project from the community for the community. After...</content>
  </entry>
 
  
