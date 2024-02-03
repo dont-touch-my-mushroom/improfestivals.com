@@ -12,6 +12,11 @@
     </url>
 
     <url>
+      <loc>https://improfestivals.com/Das_Improv_Festival_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Improfestival_Karlsruhe_24</loc>
       <priority>0.5</priority>
     </url>
