@@ -5,8 +5,8 @@
         <description>Improv Festivals - </description>
         <link>https://improfestivals.com</link>
         <link>https://improfestivals.com</link>
-        <lastBuildDate>2024-02-09T00:02:47+00:00</lastBuildDate>
-        <pubDate>2024-02-09T00:02:47+00:00</pubDate>
+        <lastBuildDate>2024-02-10T00:02:15+00:00</lastBuildDate>
+        <pubDate>2024-02-10T00:02:15+00:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -504,6 +504,15 @@ All the students coming in Pandora have the same program: 9 or 12 hours workshop
                 <link>https://improfestivals.com/SPUNK_22</link>
                 <guid>https://improfestivals.com/SPUNK_22</guid>
                 <pubDate>2022-10-10T00:00:00+00:00</pubDate>
+        </item>
+
+        <item>
+                <title></title>
+                <description>
+</description>
+                <link>https://improfestivals.com/_01</link>
+                <guid>https://improfestivals.com/_01</guid>
+                <pubDate>0001-01-01T00:00:00+00:00</pubDate>
         </item>
 
 
