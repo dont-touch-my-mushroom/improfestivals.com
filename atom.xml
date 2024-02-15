@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-02-14T00:02:48+00:00</updated>
+ <updated>2024-02-15T00:02:31+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -94,6 +94,16 @@
  
 
  <entry>
+   <title>Close Encounters Improv Festival</title>
+   <link href="http://localhost:4000/Close_Encounters_Improv_Festival_24"/>
+   <id>http://localhost:4000/Close_Encounters_Improv_Festival_24</id>
+   <updated>2024-06-21T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;We are thrilled to be planning this festival that we hope will happen every year from 2024-infinity! The purpose of the festival is to celebrate improv and artists and to unite artists from all over Switzerland and eventually the world! We also want to have a lot of fun and...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Liverpool Improvisation Festival</title>
    <link href="http://localhost:4000/Liverpool_Improvisation_Festival_24"/>
    <id>http://localhost:4000/Liverpool_Improvisation_Festival_24</id>
@@ -109,16 +119,6 @@
    <id>http://localhost:4000/ImproEM_2024_-_European_Championship_in_Improvised_Theater_24</id>
    <updated>2024-04-17T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The ImproEM will be a European Improv Theater Championship with several matches in Munich (Germany) over four weeks in April/May 2024. Of 54 eligible European countries, we will select 18 teams to represent their nation and compete for the finals.&lt;/p&gt; &lt;p&gt;Application for mixed teams of three professional improv players for...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Edinburgh International Improv Festival</title>
-   <link href="http://localhost:4000/Edinburgh_International_Improv_Festival_24"/>
-   <id>http://localhost:4000/Edinburgh_International_Improv_Festival_24</id>
-   <updated>2024-02-29T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Back for a sixth edition, this beloved improv festival takes place in the heart of Scotland’s beautiful capital city, Edinburgh.&lt;/p&gt; &lt;p&gt;It’s four days of workshops, shows and late night jams. This year’s headliners are &lt;strong&gt;Holy Shit Improv’s Casey Feigh&lt;/strong&gt;, &lt;strong&gt;Suzi Barrett&lt;/strong&gt; and &lt;strong&gt;Ronnie Adrian&lt;/strong&gt;, and &lt;strong&gt;World’s Greatest Improv School’s Will...</content>
  </entry>
 
  
