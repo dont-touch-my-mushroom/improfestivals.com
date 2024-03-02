@@ -62,6 +62,11 @@
     </url>
 
     <url>
+      <loc>https://improfestivals.com/The_Little_Improv_Festival_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Edinburgh_International_Improv_Festival_24</loc>
       <priority>0.5</priority>
     </url>
