@@ -52,6 +52,11 @@
     </url>
 
     <url>
+      <loc>https://improfestivals.com/BUENA_ONDA_FEST_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Liverpool_Improvisation_Festival_24</loc>
       <priority>0.5</priority>
     </url>

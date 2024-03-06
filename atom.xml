@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-03-05T00:02:45+00:00</updated>
+ <updated>2024-03-06T00:01:35+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -116,11 +116,11 @@
  
 
  <entry>
-   <title>Liverpool Improvisation Festival</title>
-   <link href="http://localhost:4000/Liverpool_Improvisation_Festival_24"/>
-   <id>http://localhost:4000/Liverpool_Improvisation_Festival_24</id>
-   <updated>2024-04-19T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;​Liverpool Improvisation Festival encourages innovation, risk taking and are inspired by those that do. The festival aims to create opportunity for those who create and teach improvised live performance at whatever stage of their career and across multiple art forms. In doing so we aim to educate, inspire and develop...</content>
+   <title>BUENA ONDA FEST</title>
+   <link href="http://localhost:4000/BUENA_ONDA_FEST_24"/>
+   <id>http://localhost:4000/BUENA_ONDA_FEST_24</id>
+   <updated>2024-05-13T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;¡Buena Onda - International Improvisational Theater Festival!&lt;/p&gt; &lt;p&gt;Bogotá vibrates with this grand celebration of improvisation. Enjoy a fantastic collection of diverse shows. We will start with Maestro™, a classic format perfect for inaugurating this celebration, where 14 improvisers compete to become the winner of the night. Then, we immerse ourselves...</content>
  </entry>
 
  
