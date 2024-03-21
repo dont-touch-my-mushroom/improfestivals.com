@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-03-21T21:30:05+00:00</updated>
+ <updated>2024-03-21T21:38:13+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -118,11 +118,11 @@
  
 
  <entry>
-   <title>BUENA ONDA FEST</title>
-   <link href="http://localhost:4000/BUENA_ONDA_FEST_24"/>
-   <id>http://localhost:4000/BUENA_ONDA_FEST_24</id>
-   <updated>2024-05-13T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;¡Buena Onda - International Improvisational Theater Festival!&lt;/p&gt; &lt;p&gt;Bogotá vibrates with this grand celebration of improvisation. Enjoy a fantastic collection of diverse shows. We will start with Maestro™, a classic format perfect for inaugurating this celebration, where 14 improvisers compete to become the winner of the night. Then, we immerse ourselves...</content>
+   <title>Close Encounters Improv Festival</title>
+   <link href="http://localhost:4000/Close_Encounters_Improv_Festival_24"/>
+   <id>http://localhost:4000/Close_Encounters_Improv_Festival_24</id>
+   <updated>2024-06-21T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;We are thrilled to be planning this festival that we hope will happen every year from 2024-infinity! The purpose of the festival is to celebrate improv and artists and to unite artists from all over Switzerland and eventually the world! We also want to have a lot of fun and...</content>
  </entry>
 
  
