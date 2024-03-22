@@ -6,7 +6,7 @@ country: "Switzerland"
 city: "Zurich"
 start_date: "2024-06-21T00:00:00Z"
 end_date: "2024-06-23T00:00:00Z"
-website: "https://www.closeencounterstheatre.com/zurich-improv-festival-cet"
+website: "https://www.closeencounterstheatre.com/"
 image: "https://storage.googleapis.com/improfestivals_images/Banner-CET-Improv-Fest%20-%20Isabelle%20Valera.jpg"
 slogan: "Workshops, shows and parties to celebrate improv with talented performers!"
 languages: [English]
