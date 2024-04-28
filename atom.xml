@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-04-27T00:02:46+00:00</updated>
+ <updated>2024-04-28T23:00:56+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -19,6 +19,18 @@
    <id>http://localhost:4000/IFO_Impro_Fest_24</id>
    <updated>2024-10-31T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The IFO Impro Fest ist one of Germany´s biggest international festival with workshop, shows, party and a lot of improv fun!&lt;/p&gt;
+
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Würzburger Improtheaterfestival</title>
+   <link href="http://localhost:4000/W-C3-BCrzburger_Improtheaterfestival_24"/>
+   <id>http://localhost:4000/W%C3%BCrzburger_Improtheaterfestival_24</id>
+   <updated>2024-10-24T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The Würzburger Improtheaterfestival offers an intense weekend featuring extended workshops led by professional instructors from around the world, along with a varied show program. It has turned into a small, familiar and cosy festival with space and time for intensive work but also for real interpersonal contact.&lt;/p&gt;
 
 </content>
  </entry>
@@ -109,20 +121,6 @@
    <id>http://localhost:4000/The_Big_Sing_Musical_Improv_Festival_24</id>
    <updated>2024-06-26T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Welcome to the second edition of The Big Sing Musical Improv Festival! Join us for 4 jam-packed days of musical workshops, shows, and improv fun in beautiful Barcelona, Spain. The Big Sing Musical Improv Festival brings together amateur and professional improvisers and musicians to teach, share, learn, celebrate, and enjoy...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Flock Festival</title>
-   <link href="http://localhost:4000/Flock_Festival_24"/>
-   <id>http://localhost:4000/Flock_Festival_24</id>
-   <updated>2024-06-24T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The international festival of Flock Theatre comes back with seven crazy days of improvised theatre, workshops, shows and more!&lt;/p&gt;
-
-&lt;p&gt;Stay tuned for more information on the line-up of fabulous international teachers and performers soon!&lt;/p&gt;
-
-</content>
  </entry>
 
  
