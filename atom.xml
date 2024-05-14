@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-05-14T00:03:07+00:00</updated>
+ <updated>2024-05-14T23:01:06+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -82,6 +82,16 @@
  
 
  <entry>
+   <title>Sofia Improv Fest</title>
+   <link href="http://localhost:4000/Sofia_Improv_Fest_24"/>
+   <id>http://localhost:4000/Sofia_Improv_Fest_24</id>
+   <updated>2024-09-25T00:00:00+00:00</updated>
+   <content type="html">&lt;ul&gt; &lt;li&gt; &lt;p&gt;The festival will focus on a &lt;strong&gt;DEEP DIVE&lt;/strong&gt; into the realms of improv. The four original topics are:&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;🦩 &lt;strong&gt;DEEP DIVE into Fun and Games&lt;/strong&gt;: We’re on the lookout for acts that will have our audience rolling with laughter. Bring on the joy, the silliness, and...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>MOMENTA - Impro Theater Festival International</title>
    <link href="http://localhost:4000/MOMENTA_-_Impro_Theater_Festival_International_24"/>
    <id>http://localhost:4000/MOMENTA_-_Impro_Theater_Festival_International_24</id>
@@ -109,18 +119,6 @@
    <id>http://localhost:4000/Improfest_24</id>
    <updated>2024-08-19T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;-&lt;/p&gt;
-
-</content>
- </entry>
-
- 
-
- <entry>
-   <title>IRREVERENTE - International Impro Festival of Lisbon</title>
-   <link href="http://localhost:4000/IRREVERENTE_-_International_Impro_Festival_of_Lisbon_24"/>
-   <id>http://localhost:4000/IRREVERENTE_-_International_Impro_Festival_of_Lisbon_24</id>
-   <updated>2024-07-24T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The Festival intends to bring together the impro community living in Portugal with other countries, by promoting an event with activities in Theater, Dance, Music and other forms of art. In 2024 we introduce our Experimental Edition with the Theme: Impro and…&lt;/p&gt;
 
 </content>
  </entry>

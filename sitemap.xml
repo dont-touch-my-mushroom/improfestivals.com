@@ -37,6 +37,11 @@
     </url>
 
     <url>
+      <loc>https://improfestivals.com/Sofia_Improv_Fest_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/MOMENTA_-_Impro_Theater_Festival_International_24</loc>
       <priority>0.5</priority>
     </url>
