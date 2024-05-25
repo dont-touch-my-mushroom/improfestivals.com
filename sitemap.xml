@@ -52,6 +52,11 @@
     </url>
 
     <url>
+      <loc>https://improfestivals.com/ImproLyrik_in_der_Wolkenburg_24</loc>
+      <priority>0.5</priority>
+    </url>
+
+    <url>
       <loc>https://improfestivals.com/Improfest_24</loc>
       <priority>0.5</priority>
     </url>
