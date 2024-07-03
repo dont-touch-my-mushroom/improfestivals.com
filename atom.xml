@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-07-03T00:03:03+00:00</updated>
+ <updated>2024-07-03T23:00:55+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -104,21 +104,21 @@
  
 
  <entry>
-   <title>Improfestival Karlsruhe</title>
-   <link href="http://localhost:4000/Improfestival_Karlsruhe_24"/>
-   <id>http://localhost:4000/Improfestival_Karlsruhe_24</id>
-   <updated>2024-08-24T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;After a smashing success in the last few years we are happy to be back in 2024 with even more shows and workshops.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This year we have a selection of:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;12 ensemble-members (10 actors, 1 musician and 1 technician)&lt;/li&gt; &lt;li&gt;A total of 9 days workshops, including one 3-day workshop...</content>
+   <title>Improvizza! </title>
+   <link href="http://localhost:4000/Improvizza-21_24"/>
+   <id>http://localhost:4000/Improvizza%21_24</id>
+   <updated>2024-09-04T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Improvizza! is a theatrical improvisation festival held in Malta, bringing together improvisers from all over the world to take workshops, play in jams, perform in showcases, watch shows and foster an improvisation community. Taking place on a tiny island in the middle of the Mediterranean, it offers a wonderful cultural,...</content>
  </entry>
 
  
 
  <entry>
-   <title>ImproLyrik in der Wolkenburg</title>
-   <link href="http://localhost:4000/ImproLyrik_in_der_Wolkenburg_24"/>
-   <id>http://localhost:4000/ImproLyrik_in_der_Wolkenburg_24</id>
-   <updated>2024-08-23T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Join us from August 23rd to 25th, 2024 at the börse Kulturzentrum, Wolkenburg in Wuppertal for an unforgettable weekend of improvisational theater infused with poetry and lyricism. Discover a world where words dance and scenes come alive with emotion. Featuring engaging workshops, captivating shows, and an atmosphere brimming with creativity,...</content>
+   <title>Improfestival Karlsruhe</title>
+   <link href="http://localhost:4000/Improfestival_Karlsruhe_24"/>
+   <id>http://localhost:4000/Improfestival_Karlsruhe_24</id>
+   <updated>2024-08-24T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;After a smashing success in the last few years we are happy to be back in 2024 with even more shows and workshops.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This year we have a selection of:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;12 ensemble-members (10 actors, 1 musician and 1 technician)&lt;/li&gt; &lt;li&gt;A total of 9 days workshops, including one 3-day workshop...</content>
  </entry>
 
  
