@@ -4,12 +4,22 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-10-04T00:02:47+00:00</updated>
+ <updated>2024-10-04T10:38:46+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Liverpool Improvisation Festival </title>
+   <link href="http://localhost:4000/Liverpool_Improvisation_Festival_25"/>
+   <id>http://localhost:4000/Liverpool_Improvisation_Festival_25</id>
+   <updated>2025-04-24T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;LiF ​encourages innovation, risk taking and are inspired by those that do. The festival aims to create opportunity for those who create and teach improvised live performance at whatever stage of their career and across multiple art forms. In doing so we aim to educate, inspire and develop future audiences...</content>
+ </entry>
 
  
 
@@ -21,6 +31,16 @@
    <content type="html">&lt;p&gt;The Auckland Improv Festival is all about showcasing and developing the art of improvisation. It’s community in spirit and professional in standards. AIF is a curated festival with expert teachers providing quality workshops and offers a diverse line up of shows from around the world.&lt;/p&gt;
 
 </content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>IMPRO Amsterdam</title>
+   <link href="http://localhost:4000/IMPRO_Amsterdam_25"/>
+   <id>http://localhost:4000/IMPRO_Amsterdam_25</id>
+   <updated>2025-02-15T00:00:00+00:00</updated>
+   <content type="html">&lt;h2 id=&quot;impro-amsterdam-one-of-europes-biggest-and-longest-running-english-language-improv-festivals-is-turning-30&quot;&gt;IMPRO Amsterdam, one of Europe’s biggest and longest running English-language improv festivals, is turning 30!&lt;/h2&gt; &lt;p&gt;For eight days in February, IMPRO Amsterdam celebrates the breadth and diversity of not just what improv is, but what it can be - comedic, dramatic, abstract, experimental, lyrical, musical, physical, cozy, boundary-breaking, and...</content>
  </entry>
 
  
@@ -99,26 +119,6 @@
    <content type="html">&lt;p&gt;Top-class international guests with innovative ideas and skills in improvisation, inspiring workshops, a hand-picked festival ensemble, shows, brand new improv formats, virtuosity and happenings - all this stands for a festival of special moments: MOMENTA!&lt;/p&gt;
 
 </content>
- </entry>
-
- 
-
- <entry>
-   <title>Improvizza! </title>
-   <link href="http://localhost:4000/Improvizza-21_24"/>
-   <id>http://localhost:4000/Improvizza%21_24</id>
-   <updated>2024-09-04T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Improvizza! is a theatrical improvisation festival held in Malta, bringing together improvisers from all over the world to take workshops, play in jams, perform in showcases, watch shows and foster an improvisation community. Taking place on a tiny island in the middle of the Mediterranean, it offers a wonderful cultural,...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Improfestival Karlsruhe</title>
-   <link href="http://localhost:4000/Improfestival_Karlsruhe_24"/>
-   <id>http://localhost:4000/Improfestival_Karlsruhe_24</id>
-   <updated>2024-08-24T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;After a smashing success in the last few years we are happy to be back in 2024 with even more shows and workshops.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This year we have a selection of:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;12 ensemble-members (10 actors, 1 musician and 1 technician)&lt;/li&gt; &lt;li&gt;A total of 9 days workshops, including one 3-day workshop...</content>
  </entry>
 
  
