@@ -4,12 +4,22 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2025-06-16T00:05:08+00:00</updated>
+ <updated>2025-06-16T23:00:52+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Zurich Improv Comedy Festival</title>
+   <link href="http://localhost:4000/Zurich_Improv_Comedy_Festival_25"/>
+   <id>http://localhost:4000/Zurich_Improv_Comedy_Festival_25</id>
+   <updated>2025-06-21T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Second Edition of &lt;strong&gt;Zurich Improv Comedy Festival 2025 “THE 50’s” - 20, 21, 22 + 27, 28, 29 JUNE 2025!&lt;/strong&gt; Save the dates as Close Encounters Theatre brings the world’s most talented improvisers for two unforgettable weekends of spontaneous brilliance!&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Workshops with the famous Hila Di Castro, Joleen Ballendine,...</content>
+ </entry>
 
  
 
@@ -107,16 +117,6 @@
    <id>http://localhost:4000/Das_Improv_Festival_24</id>
    <updated>2024-10-02T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Berlin’s long-form improv festival! Featuring the best alternative improv from across Europe and North America, with an exciting slate of headline acts from around the world and top-notch workshops and intensives, plus all the best improv Berlin itself has to offer.&lt;/p&gt; &lt;p&gt;Sign up for our &lt;a href=&quot;https://www.dasimprovfestival.com/newsletter/&quot;&gt;mailing list&lt;/a&gt; to get...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Sofia Improv Fest</title>
-   <link href="http://localhost:4000/Sofia_Improv_Fest_24"/>
-   <id>http://localhost:4000/Sofia_Improv_Fest_24</id>
-   <updated>2024-09-25T00:00:00+00:00</updated>
-   <content type="html">&lt;ul&gt; &lt;li&gt; &lt;p&gt;The festival will focus on a &lt;strong&gt;DEEP DIVE&lt;/strong&gt; into the realms of improv. The four original topics are:&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;🦩 &lt;strong&gt;DEEP DIVE into Fun and Games&lt;/strong&gt;: We’re on the lookout for acts that will have our audience rolling with laughter. Bring on the joy, the silliness, and...</content>
  </entry>
 
  
