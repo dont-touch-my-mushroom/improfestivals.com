@@ -4,7 +4,7 @@
  <title>Improv Festivals</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2025-08-22T00:02:43+00:00</updated>
+ <updated>2025-08-22T23:00:55+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -51,6 +51,16 @@
    <content type="html">&lt;p&gt;The Auckland Improv Festival is all about showcasing and developing the art of improvisation. It’s community in spirit and professional in standards. AIF is a curated festival with expert teachers providing quality workshops and offers a diverse line up of shows from around the world.&lt;/p&gt;
 
 </content>
+ </entry>
+
+ 
+
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2025-04-01-Berlin_Impro_Festival_-22Formations-22_25"/>
+   <id>http://localhost:4000/2025-04-01-Berlin_Impro_Festival_%22Formations%22_25</id>
+   <updated></updated>
+   <content type="html">&lt;p&gt;This year’s festival is dedicated to the exploration of techniques, tools and approaches. We will create two brand new improvised formats during the festival-week and our wish and proposal is, that these formats will be taken and used by anyone who participated, joined or just watched shows during our festival.&lt;/p&gt;...</content>
  </entry>
 
  
@@ -105,18 +115,6 @@
    <id>http://localhost:4000/The_REMIX_Festival_24</id>
    <updated>2024-10-18T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Back for another year it’s the Reallygood Edinburgh Musical Improv eXtravaganza! Join us in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 from 18-20th October for an incredible weekend of musical improv classes and performances.&lt;/p&gt; &lt;p&gt;All of the workshops, shows, and jams are included in simple weekend passes so there’s no FOMO and you’ll get to...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Birmingham Improv Festival 2024</title>
-   <link href="http://localhost:4000/Birmingham_Improv_Festival_2024_24"/>
-   <id>http://localhost:4000/Birmingham_Improv_Festival_2024_24</id>
-   <updated>2024-10-09T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Birmingham’s Brilliant Biennial Improv Festival, bringing the best shows, teachers and improv fun to the UK’s Second City.&lt;/p&gt;
-
-</content>
  </entry>
 
  
